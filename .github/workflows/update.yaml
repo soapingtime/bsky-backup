@@ -1,5 +1,6 @@
 name: Collect bsky data
 on:
+  workflow_dispatch:
   schedule:
     - cron: "50 21 * * 1,4"
 defaults:
