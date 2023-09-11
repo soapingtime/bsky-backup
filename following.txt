@@ -1,3 +1,10 @@
+did:plc:hw55nterkxy37vdrio4s4o5n,911.boykisser.expert
+did:plc:5cr6w5kpaq25acztqhd42caq,1984.boykisser.expert
+did:plc:6h3rmclu4pxk2h2ykhn7ixat,capoexplains.bsky.social
+did:plc:cupacm3nx4xoy5iciu6va6xc,lirelum.bsky.social
+did:plc:b4scvyyjtkjdb4dmqtodfnm3,boyboyboyboyboyboyboyboyboyboyboyboyboyboyboy.boykisser.expert
+did:plc:flojvbrpliyryifzgkjsfml4,straight.boykisser.expert
+did:plc:ragtjsm2j2vknwkz3zp4oxrd,pfrazee.com
 did:plc:fgd4h4fwusrcfukesl7axe5e,poieticweb.bsky.social
 did:plc:djwbofc7txyiyrqv6wtesghr,tameranian.bsky.social
 did:plc:srd6dnnrv7blmbi3aqfl2wui,bighammy.bsky.social
@@ -20,7 +27,7 @@ did:plc:uqeyuwrb4s7da5m5r77q2hv2,amyklobuchar.bsky.social
 did:plc:yok6byfgnrkkq5r5sbphulie,ruralindexing.bsky.social
 did:plc:cuxdsxpymbr7rsavgxx52vpo,mlpz.bsky.social
 did:plc:e2lf4gl7hdr43ofyhntaeqye,kunaiposting.bsky.social
-did:plc:vordmdw356ejgynfkt2xccw4,boykisser.expert
+did:plc:vordmdw356ejgynfkt2xccw4,handle.invalid
 did:plc:4e7souarnyslegx456geyekg,xxoxx.bsky.social
 did:plc:wbxlr7nn6circzbjz4rootar,androgyne.online
 did:plc:o5gmziv4vjunpvqjqofbcqna,tohruadachisjw.bsky.social
@@ -40,7 +47,6 @@ did:plc:jbobemajyzvomefqk326fiv6,moonprincess.bsky.social
 did:plc:f46ykt5mi5mjo76c6r2sirmz,isobel.top
 did:plc:tzc4liux326gyrwwpus7gqpy,saeko.bsky.social
 did:plc:bnqkww7bjxaacajzvu5gswdf,shreyanjain.net
-did:plc:2np6uovyvjnbgh4l4en5t44a,tw1nk.bsky.social
 did:plc:ew66n5udoqzjo3n3p4ekx572,dapresident.bsky.social
 did:plc:cj5szj3mu2ood66kls7oifmk,thecybersmith.bsky.social
 did:plc:fln5yais5hodxuby5vxhhqy3,inconsequenti.al
@@ -119,7 +125,7 @@ did:plc:qsctad2svxyshbqxij2oygtl,frotting.bsky.social
 did:plc:kuzwlmess4wyoufryjgmub7e,jessiealiceboy.traumaqueer.space
 did:plc:edc2pvv3hvp2g2m4lvwmotsm,chuuak47.bsky.social
 did:plc:427uaandx74txvzakxthrjwu,fishtopher.bsky.social
-did:plc:t74b7ln6vybq5lu3y73pr3qe,angelic.traumaqueer.space
+did:plc:t74b7ln6vybq5lu3y73pr3qe,shimei.bsky.cool
 did:plc:6zfgmvghpidjvcn3cqtitnx5,fenny.space
 did:plc:dre4efflq4xsbmhpzlssbjmb,nanners.bsky.social
 did:plc:5v6p3znwekni6oltuupjlnng,genuineloser.bsky.social

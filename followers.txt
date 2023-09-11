@@ -1,3 +1,9 @@
+did:plc:hk5uktpndnycc7czqpcidzrd,uakci.space
+did:plc:vrf2kcizntywhtgjyyyrrunf,skylarfemmy.bsky.social
+did:plc:wfh4imtkzdbd35gef6iebbfw,exo.pet
+did:plc:mie3urqt6sfqllvvw7gp4llz,dollblood.moe
+did:plc:ojryw4g43fit4jvumoiluijo,alphius.bsky.social
+did:plc:cupacm3nx4xoy5iciu6va6xc,lirelum.bsky.social
 did:plc:e62uomeggdoaf5qehvxbbxr2,redscarf.bsky.social
 did:plc:djwbofc7txyiyrqv6wtesghr,tameranian.bsky.social
 did:plc:wbxlr7nn6circzbjz4rootar,androgyne.online
@@ -37,10 +43,9 @@ did:plc:fgd4h4fwusrcfukesl7axe5e,poieticweb.bsky.social
 did:plc:e2lf4gl7hdr43ofyhntaeqye,kunaiposting.bsky.social
 did:plc:jr4nmdif4bazoo5e4627ebw4,heavenhelpus.bsky.social
 did:plc:toa7jcmsvtcymdfzp7m5mzgx,komiflorish.bsky.social
-did:plc:vordmdw356ejgynfkt2xccw4,boykisser.expert
+did:plc:vordmdw356ejgynfkt2xccw4,handle.invalid
 did:plc:o5gmziv4vjunpvqjqofbcqna,tohruadachisjw.bsky.social
 did:plc:sx54qz4tme6hjjretiitepcq,sedrik.bsky.social
-did:plc:gzdyk6z6w4jiy3yflrv4txim,mimimute.bsky.social
 did:plc:fbx5rrui5ey2a2gjugmwwbg2,kanaraspberry.bsky.social
 did:plc:giyrjoyd7i6ik3bbaqsgzml7,2fa.bsky.social
 did:plc:q2h2sewjtjggwqfl7zdsn2az,cult-of-spacecore.bsky.social
@@ -203,7 +208,7 @@ did:plc:rmofylfbsqd546ay4bp4ietc,heartbeat.bsky.social
 did:plc:pwkwp2vmrnt3fbdiqxqovjql,womancorn.bsky.social
 did:plc:jrk35qtbjxgv2cy5mudzacqg,realnotoriousrad.soy
 did:plc:qsctad2svxyshbqxij2oygtl,frotting.bsky.social
-did:plc:t74b7ln6vybq5lu3y73pr3qe,angelic.traumaqueer.space
+did:plc:t74b7ln6vybq5lu3y73pr3qe,shimei.bsky.cool
 did:plc:7mnpet2pvof2llhpcwattscf,stellz.xyz
 did:plc:6zfgmvghpidjvcn3cqtitnx5,fenny.space
 did:plc:dre4efflq4xsbmhpzlssbjmb,nanners.bsky.social
