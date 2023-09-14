@@ -1,3 +1,8 @@
+did:plc:s6sprpug6ygeffhogojh4g6b,kyledrake.com
+did:plc:nixiyrvdswjb7mhdolxqkf2a,neocities.org
+did:plc:3hsv6xmeg3gebjnowiqhffnz,anarchivi.st
+did:plc:e3zndnlydkatzwh7zmwysvcm,brutalmoose.com
+did:plc:ybugjapko2qap6aofsfelvby,livagar.bsky.social
 did:plc:hw55nterkxy37vdrio4s4o5n,911.boykisser.expert
 did:plc:5cr6w5kpaq25acztqhd42caq,1984.boykisser.expert
 did:plc:6h3rmclu4pxk2h2ykhn7ixat,capoexplains.bsky.social
@@ -18,7 +23,6 @@ did:plc:mxsmjzf3brfxhcnyjpafwoaz,ketaminelover.gay
 did:plc:vc7f4oafdgxsihk4cry2xpze,jcsalterego.bsky.social
 did:plc:5eatzbf6an7owk5o6bp2xzyb,pushfs.org
 did:plc:kikwlnz7zldpakfuhrvr64a4,peeenjoyer.bsky.social
-did:plc:ab3kn5swgayyxkcpmu2cxzdn,aerial.bsky.social
 did:plc:zc4q2ock564764kxfzn2xxmd,synthecysts.bsky.social
 did:plc:yfvwmnlztr4dwkb7hwz55r2g,nonbinary.computer
 did:plc:x3uhmjt7zinaomzwczjyeen7,gaypuppytwink.bsky.social
@@ -84,7 +88,7 @@ did:plc:lopjy7oy33i27lf3bya7ltv2,03storm.bsky.social
 did:plc:vdw7iqdi5jykvlnbr3rmkake,toffeenb.bsky.social
 did:plc:dre5feg7eue5bfb3gdy4ogjr,j0anbug.bsky.social
 did:plc:i5mvo22kcxsmqn6e3lgjbfnf,nacl.sh
-did:plc:tk2lkj7cruvxciyoartoktic,shimei.traumaqueer.space
+did:plc:tk2lkj7cruvxciyoartoktic,catgirldukkha.stxgln.online
 did:plc:jrk35qtbjxgv2cy5mudzacqg,realnotoriousrad.soy
 did:plc:wggityqliv3rgttovlnihozm,girldick.bsky.social
 did:plc:zu6mvjy4tw2hwczg6slxhto2,cyberia.computer
@@ -125,7 +129,7 @@ did:plc:qsctad2svxyshbqxij2oygtl,frotting.bsky.social
 did:plc:kuzwlmess4wyoufryjgmub7e,jessiealiceboy.traumaqueer.space
 did:plc:edc2pvv3hvp2g2m4lvwmotsm,chuuak47.bsky.social
 did:plc:427uaandx74txvzakxthrjwu,fishtopher.bsky.social
-did:plc:t74b7ln6vybq5lu3y73pr3qe,shimei.bsky.cool
+did:plc:t74b7ln6vybq5lu3y73pr3qe,boykisser.dev.stxgln.online
 did:plc:6zfgmvghpidjvcn3cqtitnx5,fenny.space
 did:plc:dre4efflq4xsbmhpzlssbjmb,nanners.bsky.social
 did:plc:5v6p3znwekni6oltuupjlnng,genuineloser.bsky.social
@@ -153,7 +157,7 @@ did:plc:g4ogb6dwfyrpu3x3xeujaqq7,puppetperson.bsky.social
 did:plc:77knj4q23xe3fkcn4qnecmxe,mweral.bsky.social
 did:plc:vqgurssldkmshngjw4gu7m3f,sssoap.bsky.social
 did:plc:i7yqjkyskilr357qjxlgaesy,fuchsiaandgreen.bsky.social
-did:plc:pv6zba53bh44khmfeslbpihc,twinksex.bsky.social
+did:plc:pv6zba53bh44khmfeslbpihc,sydcel.bsky.social
 did:plc:rpp3n7vmfy6nofnbw6yxqihx,saudlion550464.bsky.social
 did:plc:qhl4limjqlcvik75ku6irli2,aylos.dicksucking.expert
 did:plc:h6as5sk7tfqvvnqvfrlnnwqn,cwonus.org
@@ -227,7 +231,6 @@ did:plc:t26a7mehx4kh4z7ngnp6mytq,boygrrl.computer
 did:plc:6wpkkitfdkgthatfvspcfmjo,dril.bsky.social
 did:plc:u327zj37doczyi4uppxyyf54,weh.bsky.social
 did:plc:v2qjqvugocb6bfm73ykpasoq,necromancy.international
-did:plc:6fktaamhhxdqb2ypum33kbkj,jack.bsky.social
 did:plc:siod5edzckvqvfwdos6tifxt,montereyaq.bsky.social
 did:plc:iompnibwmx55ybdljanusaip,ddosecrets.com
 did:plc:73dpznbu4wqwtcyurwbiulov,archive.org
