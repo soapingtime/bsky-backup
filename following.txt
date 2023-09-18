@@ -1,3 +1,13 @@
+did:plc:pz7bbehnhhfl2y43kvgsc47j,0000000000.bsky.social
+did:plc:ykbwmictjo3dm3buyp77qxyu,etcetcetc.bsky.social
+did:plc:zzp52njycx34ecru4tgzwk6v,dedusmulntxt.bsky.social
+did:plc:hk5uktpndnycc7czqpcidzrd,uakci.space
+did:plc:fjmdj5vp3xvou4je23okeyig,angeltw.ink
+did:plc:mxmzzty6sqklwa5lxzfdwuk4,deviantollam.bsky.social
+did:plc:k3ewihnc32uyhpbc6hhkptid,nancypelosi.bsky.social
+did:plc:q6somaxv3izqlmf4kqfbcfc4,merzboat.bsky.social
+did:plc:krdq7jaw6wz453ls5ls55rla,avybavywavy.bsky.social
+did:plc:dbnh67t3msw22jqntpv2otri,pso2ngs-resets.bsky.social
 did:plc:s6sprpug6ygeffhogojh4g6b,kyledrake.com
 did:plc:nixiyrvdswjb7mhdolxqkf2a,neocities.org
 did:plc:3hsv6xmeg3gebjnowiqhffnz,anarchivi.st
@@ -12,6 +22,7 @@ did:plc:flojvbrpliyryifzgkjsfml4,straight.boykisser.expert
 did:plc:ragtjsm2j2vknwkz3zp4oxrd,pfrazee.com
 did:plc:fgd4h4fwusrcfukesl7axe5e,poieticweb.bsky.social
 did:plc:djwbofc7txyiyrqv6wtesghr,tameranian.bsky.social
+did:plc:e4fsmjcj33khuqi6prspceiy,soapsoap.bsky.social
 did:plc:srd6dnnrv7blmbi3aqfl2wui,bighammy.bsky.social
 did:plc:2czu76ohiskwfehlecbchppx,bitdizzy.bsky.social
 did:plc:gbgurvrbxdvxgosn3ixfipm2,sirenovoid.bsky.social
@@ -51,9 +62,10 @@ did:plc:jbobemajyzvomefqk326fiv6,moonprincess.bsky.social
 did:plc:f46ykt5mi5mjo76c6r2sirmz,isobel.top
 did:plc:tzc4liux326gyrwwpus7gqpy,saeko.bsky.social
 did:plc:bnqkww7bjxaacajzvu5gswdf,shreyanjain.net
+did:plc:2np6uovyvjnbgh4l4en5t44a,tw1nk.bsky.social
 did:plc:ew66n5udoqzjo3n3p4ekx572,dapresident.bsky.social
 did:plc:cj5szj3mu2ood66kls7oifmk,thecybersmith.bsky.social
-did:plc:fln5yais5hodxuby5vxhhqy3,inconsequenti.al
+did:plc:fln5yais5hodxuby5vxhhqy3,lexaprofession.al
 did:plc:xfbunnwahp64mjuz74hmkwh2,vallieplushie.bsky.social
 did:plc:iqkvdiurx7ih7wfs4minerom,aumgensokyo.bsky.social
 did:plc:w4es6sfh43zlht3bgrzi5qzq,jazbot.jazco.dev
@@ -108,7 +120,6 @@ did:plc:shhbtgu5o3n2ro7hw5pzyuob,sunny-gains.bsky.social
 did:plc:buofnbcavecxm3kr6x5npusi,col.bsky.social
 did:plc:xwz5f3boe4sj7zbeisvg3lvs,juanj0se.bsky.social
 did:plc:cyt4bxfmtrmawwbhwajwacau,s0ap.bsky.social
-did:plc:33petbvotoiruugfbissgis5,mizukilit.bsky.social
 did:plc:ulz4opemmz5e3fgik2iijotn,scarletred.bsky.social
 did:plc:2ci34cdt3zjgsp5ke7ogad3h,verty.gay
 did:plc:5seevnh6ggwxpxdexhw6dnun,rwren.bsky.social

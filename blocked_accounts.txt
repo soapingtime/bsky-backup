@@ -1,3 +1,6 @@
+did:plc:pg5ihytqlttrnu6hugu7n2d2,antinouns.bsky.social
+did:plc:cikelspskyqk3s2vch4ys3ls,albertinowalter117.bsky.social
+did:plc:5iku4koopbjph2r26ykun6ej,arboria.bsky.social
 did:plc:4gp6zwbms4p2rns3xkfcttdu,kanyewestlover.bsky.social
 did:plc:vdz2vuany7vmbwllh7vdw3ia,trance.bsky.social
 did:plc:xfqcsi7wuwedeqaa5m7aih44,anonymous.expectus.fyi
@@ -20,7 +23,7 @@ did:plc:mgftsovindbralcmhen55jpy,000.bsky.social
 did:plc:x4czgbljzdfbctxsujpuqwkt,tnd.bsky.social
 did:plc:lferkoyzkk7ptmiy5o6oxzug,patrickdattilio.bsky.social
 did:plc:dzlokh3fzrkyfkeusuyktq4l,gamelia.bsky.social
-did:plc:p5yxt2rdnddnsybcnae6dato,organ.doener.is-extremely.gay
+did:plc:p5yxt2rdnddnsybcnae6dato,magikforthe.ps2.is-extremely.gay
 did:plc:gtxsqmstpopdj3iooo3uzz6w,fendersonia.bsky.social
 did:plc:64zyeexwq37nx6h7xvke4cow,joshuaphill.bsky.social
 did:plc:5ueil43ubjzmohs4h2wizxfo,ariemoyal.com
