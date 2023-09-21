@@ -1,3 +1,5 @@
+did:plc:tfcwbl6fhcxgy3uvt34iah2e,dumbdawn.bsky.social
+did:plc:rpljvhj3u557ulbclxvmpxba,bigsoupin.bsky.social
 did:plc:pg5ihytqlttrnu6hugu7n2d2,antinouns.bsky.social
 did:plc:cikelspskyqk3s2vch4ys3ls,albertinowalter117.bsky.social
 did:plc:5iku4koopbjph2r26ykun6ej,arboria.bsky.social
@@ -72,7 +74,6 @@ did:plc:poqixmef4gnznajw6xj4b7dy,drstanton.bsky.social
 did:plc:u2422q7nqnd3x3mn4ed56uxx,sora02.com
 did:plc:fezgqukekwyvhz2ljrmcnmrk,ishverduzco.bsky.social
 did:plc:mxdlsmrzuki6rzn4nrx6rif3,blj.bsky.social
-did:plc:52h2w7lro7xiho7ceccttzqz,moryana.bsky.social
 did:plc:7yvsfg2ppdeglnpnvxsw7vav,sho.bsky.social
 did:plc:tmjyxghnlw4mffzqj25owhw3,fluxjoy.bsky.social
 did:plc:fphafqon6s6tlhnuln52ha2j,digitalart.bsky.social
