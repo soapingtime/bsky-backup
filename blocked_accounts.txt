@@ -1,3 +1,5 @@
+did:plc:xzdokgdervkd3kl6t2drkait,naomii.bsky.social
+did:plc:xxno7p4xtpkxtn4ok6prtlcb,lovefairy.nl
 did:plc:tfcwbl6fhcxgy3uvt34iah2e,dumbdawn.bsky.social
 did:plc:rpljvhj3u557ulbclxvmpxba,bigsoupin.bsky.social
 did:plc:pg5ihytqlttrnu6hugu7n2d2,antinouns.bsky.social
@@ -8,7 +10,7 @@ did:plc:vdz2vuany7vmbwllh7vdw3ia,trance.bsky.social
 did:plc:xfqcsi7wuwedeqaa5m7aih44,anonymous.expectus.fyi
 did:plc:ghuofytjzwintf5rdsab43zv,gay4ranch.bsky.social
 did:plc:hz2feujkhph2vcj6kevmtqjh,kitthecatgirl.bsky.social
-did:plc:5krm4pb5gecb5uawvgr7uxuu,90spiictures.bsky.social
+did:plc:5krm4pb5gecb5uawvgr7uxuu,90sanime.pics
 did:plc:ha5tvry6kkxiujam6kyjgagg,poeticalphotos.bsky.social
 did:plc:xgjcudwc5yk4z2uex5v6e7bl,aliafonzy.bsky.social
 did:plc:mntf7v3f3qizk5mmlfgcfkke,rosewilson.bsky.social
@@ -25,7 +27,7 @@ did:plc:mgftsovindbralcmhen55jpy,000.bsky.social
 did:plc:x4czgbljzdfbctxsujpuqwkt,tnd.bsky.social
 did:plc:lferkoyzkk7ptmiy5o6oxzug,patrickdattilio.bsky.social
 did:plc:dzlokh3fzrkyfkeusuyktq4l,gamelia.bsky.social
-did:plc:p5yxt2rdnddnsybcnae6dato,magikforthe.ps2.is-extremely.gay
+did:plc:p5yxt2rdnddnsybcnae6dato,vault.grrl.is-extremely.gay
 did:plc:gtxsqmstpopdj3iooo3uzz6w,fendersonia.bsky.social
 did:plc:64zyeexwq37nx6h7xvke4cow,joshuaphill.bsky.social
 did:plc:5ueil43ubjzmohs4h2wizxfo,ariemoyal.com
