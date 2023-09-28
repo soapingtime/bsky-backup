@@ -1,7 +1,14 @@
+did:plc:av6owb5wneoqkajja34a5zet,pokegame.bsky.social
+did:plc:iq22p2jro2jkonm4rm6or6df,merzbow.bsky.social
+did:plc:fx5ycalqpyxrvoxv2trvivm3,sunsetcoda.bsky.social
+did:plc:z2r5zuftkg4n3tak4c3je3nz,pinkguro.bsky.social
+did:plc:i6r2cszqypv2qkp5wvppkndo,othingstodo.bsky.social
+did:plc:gdbrpost57styzqx6qmishco,dsorgen.bsky.social
+did:plc:33bdqqtdzdqos3hxyfhdolmc,lunabuna.bsky.social
 did:plc:ntjg5lczp6smdnyn5czrfdgr,lysuko.bsky.social
 did:plc:bnqkww7bjxaacajzvu5gswdf,shreyanjain.net
 did:plc:f2wyqj4dri6j2oeo4266zsvr,weeboo.bsky.social
-did:plc:45hmyfw3hap646kfr7zckeah,hungariantard.bsky.social
+did:plc:45hmyfw3hap646kfr7zckeah,natsu.lol
 did:plc:oudrzk5wqgcve2d6mp5ouiif,zigshroom.bsky.social
 did:plc:mc525sylb6sqnqxnnod3y7zm,materialism.bsky.social
 did:plc:uso7g4vb7gybur5xtdtyg5sr,awkwardmatt.bsky.social
@@ -17,10 +24,8 @@ did:plc:cwt7k7s52vjrz3rabaqnphsa,libertarianismus.bsky.social
 did:plc:4xmw3jlq72j4nhmawjlibqih,genderliberty.bsky.social
 did:plc:beah2xxmjnypitezcs5ms264,buncat.bsky.social
 did:plc:bydlwgvvag4qqxjc63gu2eus,mnirish.bsky.social
-did:plc:ormge5fgw4wlqoxp22skgbow,ophanimfujoshi.bsky.social
 did:plc:rwzwsdvttrxg6ezmky7c4nmv,silicatea.bsky.social
 did:plc:g3osljeky772z5rdkjlvjnv2,madam7-3.bsky.social
-did:plc:of4pao5jifarllwqt2jt3jxe,techlead.bsky.social
 did:plc:pjygcxhjptmvgrcwvh3beftf,portdrift.bsky.social
 did:plc:476wdianoch2e7df2uw4i7uc,erashy072.bsky.social
 did:plc:ko2sngwjzwurbhhpj27j5czx,flowerssunrain.bsky.social
@@ -298,7 +303,7 @@ did:plc:fvrltvetqughxbnqawjyokdk,vuluus.bsky.social
 did:plc:vqgurssldkmshngjw4gu7m3f,sssoap.bsky.social
 did:plc:i7yqjkyskilr357qjxlgaesy,fuchsiaandgreen.bsky.social
 did:plc:pv6zba53bh44khmfeslbpihc,sydcel.bsky.social
-did:plc:qhl4limjqlcvik75ku6irli2,aylos.dicksucking.expert
+did:plc:qhl4limjqlcvik75ku6irli2,handle.invalid
 did:plc:oiocvkvd4op43xtbzvg7s6ii,chud.bsky.social
 did:plc:eeste4zrnovkkucc35rwm6om,ccmaelstrom.bsky.social
 did:plc:ndgvbmijcaedrlzm5xvbchbg,heavenobscured.bsky.social

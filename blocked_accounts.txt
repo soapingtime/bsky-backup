@@ -1,3 +1,4 @@
+did:plc:rdxctmtu3mt56fzpsxjzy7j6,tech-news.bsky.social
 did:plc:xzdokgdervkd3kl6t2drkait,naomii.bsky.social
 did:plc:xxno7p4xtpkxtn4ok6prtlcb,lovefairy.nl
 did:plc:tfcwbl6fhcxgy3uvt34iah2e,dumbdawn.bsky.social
@@ -82,5 +83,5 @@ did:plc:fphafqon6s6tlhnuln52ha2j,digitalart.bsky.social
 did:plc:n6wa7tjnh3wlcizknasz6r2f,lorenzolne.bsky.social
 did:plc:vfd4wfkntvprozbhryhrzftn,jpren.bsky.social
 did:plc:jg66drxkqd7zrvluorpfie6q,timholt.bsky.social
-did:plc:2e722nqdw6bw7x3nd4o5wzz5,frvncesco.bsky.social
+did:plc:2e722nqdw6bw7x3nd4o5wzz5,francesko.bsky.social
 did:plc:g5326ovefr2up5iz3momykqi,madds.bsky.social
