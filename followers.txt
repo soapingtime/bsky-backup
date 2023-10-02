@@ -1,3 +1,11 @@
+did:plc:hjb6khkfvc4d3ujhtsqdks54,braap.bsky.social
+did:plc:bfcxo7243apc5s3pubdgdlfu,chiefhugabitch.bsky.social
+did:plc:isjpjddfk2qvltuhqv5ghydb,petebuttigieg.bsky.social
+did:plc:7c6v2wtc47mztaj2snyb75ep,quetc.bsky.social
+did:plc:k626emd4xi4h3wxpd44s4wpk,mutebot.bsky.social
+did:plc:ziohxbaiphma7hcosxfuh2gp,mbchafin.bsky.social
+did:plc:vjgx6jdmxj3vbqdh3xob5xft,mysu.dev
+did:plc:5hj4kylcmhzyhgwer4p5rxmj,gaffclant.dev
 did:plc:av6owb5wneoqkajja34a5zet,pokegame.bsky.social
 did:plc:iq22p2jro2jkonm4rm6or6df,merzbow.bsky.social
 did:plc:fx5ycalqpyxrvoxv2trvivm3,sunsetcoda.bsky.social
@@ -13,9 +21,7 @@ did:plc:oudrzk5wqgcve2d6mp5ouiif,zigshroom.bsky.social
 did:plc:mc525sylb6sqnqxnnod3y7zm,materialism.bsky.social
 did:plc:uso7g4vb7gybur5xtdtyg5sr,awkwardmatt.bsky.social
 did:plc:676dsi7po6pz7mblmkk47ip2,lizzyrei.bsky.social
-did:plc:6gwchzxwoj7jms5nilauupxq,ameliamnesia.xyz
 did:plc:yaejz3jinduikp5fqzomkbgh,inabsentiae.bsky.social
-did:plc:wocchtcxsc5o3gy7n43zaypg,gaytwinksex.bsky.social
 did:plc:o54ps2oervzb6duk475xldmk,xnylhsa.bsky.social
 did:plc:rlcs5oekefwuidajnipey3a5,reduxgb.com
 did:plc:rypoufnkx4zlweo2wy3bapg5,enbytea.bsky.social
@@ -32,7 +38,7 @@ did:plc:ko2sngwjzwurbhhpj27j5czx,flowerssunrain.bsky.social
 did:plc:ykbwmictjo3dm3buyp77qxyu,aerial.bsky.social
 did:plc:zzp52njycx34ecru4tgzwk6v,dedusmulntxt.bsky.social
 did:plc:coe636ufo6qkscxl62rspep6,durand.al
-did:plc:y6e4suxevznha6rjug2qbw7f,nkizz.com
+did:plc:y6e4suxevznha6rjug2qbw7f,handle.invalid
 did:plc:njyuqhuroqwbswjfbmtvp754,reddebrek.bsky.social
 did:plc:poeo2apqigxmjzxamhglnwiv,wholeslayer.bsky.social
 did:plc:z7frnmzhhuxxh2iyhoyp7v7u,gotofritz.bsky.social
@@ -136,7 +142,7 @@ did:plc:7zleus7pnrpgnzziiki6bdxs,asa44.bsky.social
 did:plc:uvpp6asjkgkb3m6kdbpfi7ip,mmmmadelynmmm.bsky.social
 did:plc:adwsernmd2tk2zngrwyacf3a,gaytr.bsky.social
 did:plc:yhvjb4az55rheagswcz6oaex,riverr.bsky.social
-did:plc:rfz2yzksw53f2pxquc3wn4rq,puyapora.bsky.social
+did:plc:rfz2yzksw53f2pxquc3wn4rq,puyarin.bsky.social
 did:plc:ew66n5udoqzjo3n3p4ekx572,dapresident.bsky.social
 did:plc:lotdnkafkwih525acx5yhtq2,fidgety48.bsky.social
 did:plc:6h3rmclu4pxk2h2ykhn7ixat,capoexplains.bsky.social
@@ -312,7 +318,6 @@ did:plc:awtdo7unpzklzvnwck4e2hrv,forzeth.bsky.social
 did:plc:l2xmwmwij3maxkzvqbk4ri4b,harlow.bsky.social
 did:plc:adtzorbhmmjbzxsl2y4vqlqs,seiso.moe
 did:plc:bw7yi2j5f7ndhemwcleiblis,kittycultist.xyz
-did:plc:3nodfbwjlsd77ckgrodawvpv,eaglebaby420.fans
 did:plc:4bnduvcjhyeyl3gzeezdw3v2,poker210.bsky.social
 did:plc:dibromful455mkjqparyc7vh,ohai.bsky.social
 did:plc:mpnquasgn7l3mk7sjb6qigmz,blahaj.bsky.social
@@ -337,7 +342,6 @@ did:plc:ioedivo5em3wl6nopabvnzou,zkeyy.bsky.social
 did:plc:7bwr7mioqql34n2mrqwqypbz,domi.zip
 did:plc:aiu3zofdbnqsjttjefhhux3t,volfemcel.bsky.social
 did:plc:u327zj37doczyi4uppxyyf54,weh.bsky.social
-did:plc:gawcnlxoedsqztfc676wiltr,gayprincessloser.bsky.social
 did:plc:wdx76fcbbin5s2ylk7aji5wm,comfysara.bsky.social
 did:plc:wgdccnjztluwxzy4ccclz7jg,dthgrpsbymdr.bsky.social
 did:plc:axtqv6e7tmifnzjl6j7oenyh,hrt.bsky.social
