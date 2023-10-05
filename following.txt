@@ -1,3 +1,4 @@
+did:plc:wfh4imtkzdbd35gef6iebbfw,exo.pet
 did:plc:isjpjddfk2qvltuhqv5ghydb,petebuttigieg.bsky.social
 did:plc:rypoufnkx4zlweo2wy3bapg5,enbytea.bsky.social
 did:plc:lr36xv2l64jwtnyoaqem6z2z,eff.bsky.social
@@ -8,7 +9,6 @@ did:plc:4ribxmi5z7ei6yy3ahb64jpr,emoeboy.bsky.social
 did:plc:2zpwetl5exgarpm2wtwhpeke,girlboss.dev
 did:plc:45hmyfw3hap646kfr7zckeah,natsu.lol
 did:plc:rlcs5oekefwuidajnipey3a5,reduxgb.com
-did:plc:aaelnwlxvflllswegmearbwo,emperorof.bsky.social
 did:plc:p3vdrhjpqfnrj5523b5dnl7c,elffiie.bsky.social
 did:plc:f2wyqj4dri6j2oeo4266zsvr,weeboo.bsky.social
 did:plc:oudrzk5wqgcve2d6mp5ouiif,zigshroom.bsky.social
@@ -39,6 +39,7 @@ did:plc:flojvbrpliyryifzgkjsfml4,straight.boykisser.expert
 did:plc:ragtjsm2j2vknwkz3zp4oxrd,pfrazee.com
 did:plc:fgd4h4fwusrcfukesl7axe5e,poieticweb.bsky.social
 did:plc:djwbofc7txyiyrqv6wtesghr,tameranian.bsky.social
+did:plc:e4fsmjcj33khuqi6prspceiy,chiefkeef.bsky.social
 did:plc:srd6dnnrv7blmbi3aqfl2wui,bighammy.bsky.social
 did:plc:2czu76ohiskwfehlecbchppx,bitdizzy.bsky.social
 did:plc:gbgurvrbxdvxgosn3ixfipm2,sirenovoid.bsky.social
@@ -80,7 +81,7 @@ did:plc:bnqkww7bjxaacajzvu5gswdf,shreyanjain.net
 did:plc:2np6uovyvjnbgh4l4en5t44a,tw1nk.bsky.social
 did:plc:ew66n5udoqzjo3n3p4ekx572,dapresident.bsky.social
 did:plc:cj5szj3mu2ood66kls7oifmk,thecybersmith.bsky.social
-did:plc:fln5yais5hodxuby5vxhhqy3,indiffe.rent
+did:plc:fln5yais5hodxuby5vxhhqy3,lexap.ro
 did:plc:xfbunnwahp64mjuz74hmkwh2,vallieplushie.bsky.social
 did:plc:iqkvdiurx7ih7wfs4minerom,aumgensokyo.bsky.social
 did:plc:w4es6sfh43zlht3bgrzi5qzq,jazbot.jazco.dev
@@ -94,7 +95,7 @@ did:plc:d2t2wojb2ulq3mi7xaztpuxq,cultofhoodies.bsky.social
 did:plc:dy7vbo4ao7lyxbz2eadimzpw,drinkfresca.online
 did:plc:ectlmpxgdzwzeqkgzf7wa73l,joaoao.bsky.social
 did:plc:faywwxas7j3lwkz6otteimgo,devslashdessa.bsky.social
-did:plc:ntgxax74n2ej4w3opxdicpg2,tgirlpitjob.bsky.social
+did:plc:ntgxax74n2ej4w3opxdicpg2,councilcomgirlboy.bsky.social
 did:plc:mg3w5omg3jx43v2nkudiyo4w,aviansystem.bsky.social
 did:plc:jmc3r3yar34v36mleqwk2ph4,asteroidfield.bsky.social
 did:plc:d4j7gz2aouzbkgc6vtus36qn,sabz.bsky.social
