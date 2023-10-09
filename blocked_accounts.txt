@@ -29,7 +29,7 @@ did:plc:mgftsovindbralcmhen55jpy,000.bsky.social
 did:plc:x4czgbljzdfbctxsujpuqwkt,tnd.bsky.social
 did:plc:lferkoyzkk7ptmiy5o6oxzug,patrickdattilio.bsky.social
 did:plc:dzlokh3fzrkyfkeusuyktq4l,gamelia.bsky.social
-did:plc:p5yxt2rdnddnsybcnae6dato,vault.grrl.is-extremely.gay
+did:plc:p5yxt2rdnddnsybcnae6dato,the.jackal.from.halo2.is-extremely.gay
 did:plc:gtxsqmstpopdj3iooo3uzz6w,fendersonia.bsky.social
 did:plc:64zyeexwq37nx6h7xvke4cow,joshuaphill.bsky.social
 did:plc:5ueil43ubjzmohs4h2wizxfo,ariemoyal.com
