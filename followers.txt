@@ -1,3 +1,6 @@
+did:plc:rx3jbayvh7gaifvsno3l7d56,primaryyyy.love
+did:plc:eaicfs5kntmxviwwymulegux,wetmascara.bsky.social
+did:plc:bftdyctsfb7e4ntsoovoji4j,pancake4321.bsky.social
 did:plc:of4pao5jifarllwqt2jt3jxe,techstacksin.bsky.social
 did:plc:67cgpjivvk2zvijzn6a64m3c,clem-fandango.bsky.social
 did:plc:pbxxsekydgfkxg7arwtz5p2d,keava.bsky.social
@@ -9,7 +12,6 @@ did:plc:vqwr7xjspiqb6hu76byo34gc,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 did:plc:ljflterjv63zqy333gggqc5f,erisella.bsky.social
 did:plc:g5qo7lfrainl27dwruongzmm,tordsteak.bsky.social
 did:plc:66oco6sftqorgcrr7k4pg626,meng.bsky.social
-did:plc:f6gu5a5pvjlxj3625jqimfsz,enidcoleslaw.bsky.social
 did:plc:qgma2gzawmk3chste7oqsd3y,markgman.bsky.social
 did:plc:mp2sfyr5zkmwdgen3e2twiov,cutie.bsky.social
 did:plc:ur57rspeesmncqfguxkiagka,moonrabbit.bsky.social
@@ -101,7 +103,6 @@ did:plc:nromfdyrxcod5htw2arpov6t,chaotext.bsky.social
 did:plc:rh6ee2w4s5j7skwd5eadpvkw,cpimentel986.bsky.social
 did:plc:srd6dnnrv7blmbi3aqfl2wui,bighammy.bsky.social
 did:plc:gfqn6dnz5ebdps7fkb6ltwtl,bethh.bsky.social
-did:plc:xni6lizewlegp47vyhgoy3cd,bankaiphonk.bsky.social
 did:plc:gbgurvrbxdvxgosn3ixfipm2,sirenovoid.bsky.social
 did:plc:skse6n2turcafvyiekr4lmu6,madam7-2.bsky.social
 did:plc:mraaqr35gfzsxjrjacfiwyna,nickcash.bsky.social
@@ -232,7 +233,7 @@ did:plc:faywwxas7j3lwkz6otteimgo,devslashdessa.bsky.social
 did:plc:tyf66b7mmiffjdsbakufty5b,rosco.bsky.social
 did:plc:ceewrprgvn5ttkdwaz6nbp4d,casinodweller.bsky.social
 did:plc:p2jvyexpncknlafx52ullb6l,teddyhose.bsky.social
-did:plc:a4y4hoj3pn43hj4py5thik2m,pyra.bsky.social
+did:plc:a4y4hoj3pn43hj4py5thik2m,chrysalis.vision
 did:plc:6oxmasa5vjxggktedruwxsed,medeaclouds.bsky.social
 did:plc:jvybbjvzjc2nnwe7vtrgtkih,countingstars.bsky.social
 did:plc:ckf74izven6yozwj5ajwccvr,lachesis.bsky.social
@@ -300,7 +301,7 @@ did:plc:hlz3iikomyar5ccwz5qswzpc,avaluvzrice.bsky.social
 did:plc:uuavp4rcsg37gps4637jyrsh,shoshana.bsky.social
 did:plc:lrp5jpgjg7r6kweadjudjois,simpleduckman.bsky.social
 did:plc:liokdrcad4t2jejpgqchhsui,dumbdog.bsky.social
-did:plc:emzprvzgxk4lbaebykvhdd6e,nyanatheblue.bsky.social
+did:plc:emzprvzgxk4lbaebykvhdd6e,nyanathebloom.bsky.social
 did:plc:heeumuqjx3cu6pvmcfjdq4fd,scd.lol
 did:plc:mn3q4suxrmo4pobh7avdmu2k,flojuja.bsky.social
 did:plc:kuzwlmess4wyoufryjgmub7e,jessiealiceboy.bsky.social
