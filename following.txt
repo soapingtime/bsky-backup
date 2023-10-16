@@ -1,3 +1,4 @@
+did:plc:ia76kvnndjutgedggx2ibrem,externdefs.bsky.social
 did:plc:rx3jbayvh7gaifvsno3l7d56,primaryyyy.love
 did:plc:6bashihb52mzz5fyce2tlb4r,beagle.bsky.social
 did:plc:q6gjnaw2blty4crticxkmujt,jaz.bsky.social
@@ -5,7 +6,6 @@ did:plc:rm6pwu6jemnhga5d4tkeoiyz,scarlet.zone
 did:plc:vqwr7xjspiqb6hu76byo34gc,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaa.cumslutcouture.com
 did:plc:ccxl3ictrlvtrrgh5swvvg47,lastnpcalex.com
 did:plc:5rw2on4i56btlcajojaxwcat,eepy.bsky.social
-did:plc:wfh4imtkzdbd35gef6iebbfw,exo.pet
 did:plc:isjpjddfk2qvltuhqv5ghydb,petebuttigieg.bsky.social
 did:plc:rypoufnkx4zlweo2wy3bapg5,enbytea.bsky.social
 did:plc:lr36xv2l64jwtnyoaqem6z2z,eff.bsky.social
@@ -68,9 +68,7 @@ did:plc:cuxdsxpymbr7rsavgxx52vpo,mlpz.bsky.social
 did:plc:e2lf4gl7hdr43ofyhntaeqye,kunaiposting.bsky.social
 did:plc:4e7souarnyslegx456geyekg,xxoxx.bsky.social
 did:plc:wbxlr7nn6circzbjz4rootar,androgyne.online
-did:plc:o5gmziv4vjunpvqjqofbcqna,tohruadachisjw.bsky.social
 did:plc:sx54qz4tme6hjjretiitepcq,sedrik.bsky.social
-did:plc:atkcobvonbluzq3a5xktoy3o,hierophantis.bsky.social
 did:plc:mie3urqt6sfqllvvw7gp4llz,dollblood.moe
 did:plc:yz6nsxn45mgbofke6yewyxvq,theinternet.bsky.social
 did:plc:xknt2gpkdlq7dswc3wc2zz6k,vileblood.gay
