@@ -1,3 +1,4 @@
+did:plc:7z5kxkio45tyodyukg33tuh2,marisa.gensokyo.shop
 did:plc:kvabtpp7i2tmqk2eu5uax2hy,rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.itsrem.com
 did:plc:gyw5rrml7n5zyd653lgrdd4s,mevans2001.bsky.social
 did:plc:ia76kvnndjutgedggx2ibrem,externdefs.bsky.social
@@ -127,7 +128,6 @@ did:plc:gqrz2tdzku3w72skzo5coyc3,blockenheimer.click
 did:plc:ceewrprgvn5ttkdwaz6nbp4d,casinodweller.bsky.social
 did:plc:hnmxwfrqd2ezab57zbhwvifr,oceanangel.bsky.social
 did:plc:gtzao6ouhbrnnz2cnqrxjxyf,gayassgearhead.bsky.social
-did:plc:qezk54orevt3dtm4ijcyadnq,intrnl.bsky.social
 did:plc:ng5rexah7uahfq3snbvolz63,averymausington.bsky.social
 did:plc:ohrmjioa7gwh6dxsjihqfuql,leezartti.me
 did:plc:coe636ufo6qkscxl62rspep6,durand.al
