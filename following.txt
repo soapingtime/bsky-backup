@@ -1,7 +1,11 @@
+did:plc:asb3rgscdkkv636buq6blof6,rem.postes.club
+did:plc:vqmwa6yssrzkajg7ei3o2gd5,xn--668haa.postes.club
+did:plc:5r6dw4itmwnht6fr62x44enl,risingmoon.bsky.social
+did:plc:4qasjv2lbinvw4rxffnu4ipb,ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc.ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc.ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc.codingmustache.dev
 did:plc:7z5kxkio45tyodyukg33tuh2,marisa.gensokyo.shop
 did:plc:kvabtpp7i2tmqk2eu5uax2hy,rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.itsrem.com
 did:plc:gyw5rrml7n5zyd653lgrdd4s,mevans2001.bsky.social
-did:plc:ia76kvnndjutgedggx2ibrem,externdefs.bsky.social
+did:plc:ia76kvnndjutgedggx2ibrem,mary-ext.bsky.social
 did:plc:rx3jbayvh7gaifvsno3l7d56,primaryyyy.love
 did:plc:6bashihb52mzz5fyce2tlb4r,beagle.bsky.social
 did:plc:q6gjnaw2blty4crticxkmujt,jaz.bsky.social
@@ -135,7 +139,6 @@ did:plc:aack7agplorbdwe2mmjdkdy2,p0tus.bsky.social
 did:plc:lfsublvyskdxbofq3sl7bjkh,defcon.bsky.social
 did:plc:jfhpnnst6flqway4eaeqzj2a,bossett.bsky.social
 did:plc:shhbtgu5o3n2ro7hw5pzyuob,sunny-gains.bsky.social
-did:plc:buofnbcavecxm3kr6x5npusi,col.bsky.social
 did:plc:xwz5f3boe4sj7zbeisvg3lvs,juanj0se.bsky.social
 did:plc:cyt4bxfmtrmawwbhwajwacau,s0ap.bsky.social
 did:plc:ulz4opemmz5e3fgik2iijotn,scarletred.bsky.social
