@@ -1,3 +1,5 @@
+did:plc:7ep6d4byk2kqb6imgqutyxyw,alleraus49.bsky.social
+did:plc:v7632qt2aemvxxp745obhspl,everyones-fren48.bsky.social
 did:plc:kdud3kfgmfjd2e25tmveuxe4,monitorlizard.bsky.social
 did:plc:g5ynsj5dmvx5r54mxq5e6owh,butcherofhearts.bsky.social
 did:plc:6d644o7yja552dszprfcwpjj,rainewingel1510.bsky.social
@@ -38,7 +40,6 @@ did:plc:bjdqfxyo25ryhi3guixcdnut,sariadelaney.bsky.social
 did:plc:cka5mrplflil6eu67sv2p2s2,ottovonmopsmarck.bsky.social
 did:plc:d7z67zxkfj5myroi7dyovjgb,suripfote.bsky.social
 did:plc:nksjbfazket6pgvmopqrscop,oaksothoth.bsky.social
-did:plc:zf4fsilmqnrhobtqxhyluvru,spiffylh.bsky.social
 did:plc:vprtyeojng7itbd72e4duqa5,schorsch.bsky.social
 did:plc:cbdzqlhewnsednbitosxhony,waldmaus.bsky.social
 did:plc:tpcoywjggfq52wc526jcsobg,onlinefreund.bsky.social
@@ -130,7 +131,6 @@ did:plc:uc7f4j5zuqwwyvctnkecjdrr,feivishzelner.bsky.social
 did:plc:jawykmdc4acgqivjfjtbcmeu,vonsnegghausen.bsky.social
 did:plc:zgpnp2h4lrwveqoukvuccwpz,austropode.bsky.social
 did:plc:zhe3x7ssrilusx463guqrkxf,evandrovogel.bsky.social
-did:plc:k2weqoffrljoi7d45jjhjaqk,thedevil.bsky.social
 did:plc:f6gu5a5pvjlxj3625jqimfsz,enidcoleslaw.bsky.social
 did:plc:uas6hwpiwfhkep62baacgx5m,graygay.bsky.social
 did:plc:xn3ajefoonnu3ghwzempzui2,therealjchubby.bsky.social
