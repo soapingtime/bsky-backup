@@ -1,3 +1,7 @@
+did:plc:l2u34pyxepcombpqyxbhzgy3,vghistory.bsky.social
+did:plc:6wg3gtyekageqhtnznhc3gq6,its.rempostes.dev
+did:plc:t4ngf2lvhhb2yb4vpbn4whnv,welcome.rempostes.website
+did:plc:srrbdospijghtylg53cyrwat,scrunge-posteign.bsky.social
 did:plc:okb2kxk46k7jwtqsr26lvaet,lauren.werats.gay
 did:plc:d6jcmdvuazyrazzvn2ajz5mu,admin.bskyapp.pro
 did:plc:asb3rgscdkkv636buq6blof6,rem.postes.club
