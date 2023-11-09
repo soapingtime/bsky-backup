@@ -1,6 +1,6 @@
 # bsky audit trail backup
 
-forked from [bsky-audit-log](https://github.com/tehcyx/bsky-audit-log), commit [4190bd2](https://github.com/tehcyx/bsky-audit-log/commit/4190bd26eb41b082cf0fae3860d28dd8704996c0)
+forked from [bsky-audit-log](https://github.com/tehcyx/bsky-audit-log), commit [a9969ea](https://github.com/tehcyx/bsky-audit-log/commit/a9969ea08677059892ff2e5e8606f404aef2c633)
 
 this repository backs up my
 [follower list](followers.txt),
