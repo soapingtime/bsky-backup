@@ -1,3 +1,5 @@
+did:plc:bndbpculmlr7pqq4rr3y3ezr,frog-frens33.bsky.social
+did:plc:gr6glr3getmxszdshfg6zozs,hstark.bsky.social
 did:plc:ckkf3livex5gokpftkgihcme,satinlady.com
 did:plc:7ep6d4byk2kqb6imgqutyxyw,alleraus49.bsky.social
 did:plc:v7632qt2aemvxxp745obhspl,everyones-fren48.bsky.social
@@ -165,7 +167,7 @@ did:plc:mgftsovindbralcmhen55jpy,000.bsky.social
 did:plc:x4czgbljzdfbctxsujpuqwkt,tnd.bsky.social
 did:plc:lferkoyzkk7ptmiy5o6oxzug,patrickdattilio.bsky.social
 did:plc:dzlokh3fzrkyfkeusuyktq4l,gamelia.bsky.social
-did:plc:p5yxt2rdnddnsybcnae6dato,ny00mer.bsky.social
+did:plc:p5yxt2rdnddnsybcnae6dato,themotobug.bsky.social
 did:plc:gtxsqmstpopdj3iooo3uzz6w,fendersonia.bsky.social
 did:plc:64zyeexwq37nx6h7xvke4cow,joshuaphill.bsky.social
 did:plc:5ueil43ubjzmohs4h2wizxfo,ariemoyal.com
@@ -196,7 +198,6 @@ did:plc:hba2gapoq5n4i7sqm7pvomvd,garchanjo.com
 did:plc:4yijtbd73yqrb6esvcwz3hko,marysue.bsky.social
 did:plc:i24iidrrj2hc6dwz2luiiqa5,adambouska.bsky.social
 did:plc:xgfsc4c526suqb3sa4tinb3a,bitcoinpapi.bsky.social
-did:plc:gr6glr3getmxszdshfg6zozs,hstark.bsky.social
 did:plc:ab4mxfabcxdatuerre4522j7,georgesantos.bsky.social
 did:plc:quvev2p4br75xmdkofbhsv64,kristen.bsky.social
 did:plc:xvuqge2t5527jtcrabz7oujd,krisruby.bsky.social

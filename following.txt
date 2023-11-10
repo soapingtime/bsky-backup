@@ -1,3 +1,6 @@
+did:plc:6vfij36x5fdvhsqf5pgemkrv,thatnerd64.online
+did:plc:64bwfed3crvvinx7572lsbjr,aerial.bsky.social
+did:plc:qmkgbluuk2d3j347ffvgsouv,goodmorningtoyou.bsky.social
 did:plc:l2u34pyxepcombpqyxbhzgy3,vghistory.bsky.social
 did:plc:6wg3gtyekageqhtnznhc3gq6,its.rempostes.dev
 did:plc:t4ngf2lvhhb2yb4vpbn4whnv,welcome.rempostes.website
@@ -11,7 +14,7 @@ did:plc:4qasjv2lbinvw4rxffnu4ipb,ccccccccccccccccccccccccccccccccccccccccccccccc
 did:plc:7z5kxkio45tyodyukg33tuh2,marisa.gensokyo.shop
 did:plc:kvabtpp7i2tmqk2eu5uax2hy,rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.rem.itsrem.com
 did:plc:gyw5rrml7n5zyd653lgrdd4s,mevans2001.bsky.social
-did:plc:ia76kvnndjutgedggx2ibrem,mary-ext.bsky.social
+did:plc:ia76kvnndjutgedggx2ibrem,mary.my.id
 did:plc:rx3jbayvh7gaifvsno3l7d56,primaryyyy.love
 did:plc:6bashihb52mzz5fyce2tlb4r,beagle.bsky.social
 did:plc:q6gjnaw2blty4crticxkmujt,jaz.bsky.social
@@ -35,7 +38,6 @@ did:plc:uynpich2hsqmryyhr3moz5re,pavedwalden.bsky.social
 did:plc:wnhgol2giigix7dhnhcqpqix,emowolf.bsky.social
 did:plc:wocchtcxsc5o3gy7n43zaypg,gaytwinksex.bsky.social
 did:plc:pz7bbehnhhfl2y43kvgsc47j,jpegxl.bsky.social
-did:plc:ykbwmictjo3dm3buyp77qxyu,aerial.bsky.social
 did:plc:zzp52njycx34ecru4tgzwk6v,dedusmulntxt.bsky.social
 did:plc:hk5uktpndnycc7czqpcidzrd,uakci.space
 did:plc:fjmdj5vp3xvou4je23okeyig,angeltw.ink
@@ -96,7 +98,7 @@ did:plc:tzc4liux326gyrwwpus7gqpy,saeko.bsky.social
 did:plc:bnqkww7bjxaacajzvu5gswdf,shreyanjain.net
 did:plc:ew66n5udoqzjo3n3p4ekx572,dapresident.bsky.social
 did:plc:cj5szj3mu2ood66kls7oifmk,thecybersmith.bsky.social
-did:plc:fln5yais5hodxuby5vxhhqy3,sedativ.es
+did:plc:fln5yais5hodxuby5vxhhqy3,silhouett.es
 did:plc:xfbunnwahp64mjuz74hmkwh2,vallieplushie.bsky.social
 did:plc:iqkvdiurx7ih7wfs4minerom,aumgensokyo.bsky.social
 did:plc:w4es6sfh43zlht3bgrzi5qzq,jazbot.jazco.dev
