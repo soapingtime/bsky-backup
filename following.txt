@@ -1,3 +1,5 @@
+did:plc:eqjxwer2gyycshur7svgopcj,unspoken--names.bsky.social
+did:plc:upmjygwhb4lpqkne3hqsykks,spaceds8008s.bsky.social
 did:plc:6vfij36x5fdvhsqf5pgemkrv,thatnerd64.online
 did:plc:64bwfed3crvvinx7572lsbjr,aerial.bsky.social
 did:plc:qmkgbluuk2d3j347ffvgsouv,goodmorningtoyou.bsky.social
@@ -32,7 +34,7 @@ did:plc:4ribxmi5z7ei6yy3ahb64jpr,emoeboy.bsky.social
 did:plc:2zpwetl5exgarpm2wtwhpeke,girlboss.dev
 did:plc:45hmyfw3hap646kfr7zckeah,natsu.lol
 did:plc:rlcs5oekefwuidajnipey3a5,reduxgb.com
-did:plc:p3vdrhjpqfnrj5523b5dnl7c,elffiie.bsky.social
+did:plc:p3vdrhjpqfnrj5523b5dnl7c,slaypussyhat.gay
 did:plc:oudrzk5wqgcve2d6mp5ouiif,zigshroom.bsky.social
 did:plc:uynpich2hsqmryyhr3moz5re,pavedwalden.bsky.social
 did:plc:wnhgol2giigix7dhnhcqpqix,emowolf.bsky.social
@@ -98,7 +100,7 @@ did:plc:tzc4liux326gyrwwpus7gqpy,saeko.bsky.social
 did:plc:bnqkww7bjxaacajzvu5gswdf,shreyanjain.net
 did:plc:ew66n5udoqzjo3n3p4ekx572,dapresident.bsky.social
 did:plc:cj5szj3mu2ood66kls7oifmk,thecybersmith.bsky.social
-did:plc:fln5yais5hodxuby5vxhhqy3,silhouett.es
+did:plc:fln5yais5hodxuby5vxhhqy3,suicid.al
 did:plc:xfbunnwahp64mjuz74hmkwh2,vallieplushie.bsky.social
 did:plc:iqkvdiurx7ih7wfs4minerom,aumgensokyo.bsky.social
 did:plc:w4es6sfh43zlht3bgrzi5qzq,jazbot.jazco.dev
@@ -193,7 +195,7 @@ did:plc:vqgurssldkmshngjw4gu7m3f,sssoap.bsky.social
 did:plc:i7yqjkyskilr357qjxlgaesy,fuchsiaandgreen.bsky.social
 did:plc:pv6zba53bh44khmfeslbpihc,sydcel.bsky.social
 did:plc:rpp3n7vmfy6nofnbw6yxqihx,saudlion550464.bsky.social
-did:plc:qhl4limjqlcvik75ku6irli2,handle.invalid
+did:plc:qhl4limjqlcvik75ku6irli2,dicksucking.monster
 did:plc:xatbuopfl7g3dht7vhzpvv5x,redherring32.bsky.social
 did:plc:xraomsuf6pvh7r2cqtdwhkvm,swiftonsecurity.com
 did:plc:oiocvkvd4op43xtbzvg7s6ii,chud.bsky.social
