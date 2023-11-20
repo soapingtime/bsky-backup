@@ -1,3 +1,9 @@
+did:plc:4weefonhaz2rmpq6qnjlcv4e,ryanjanus.bsky.social
+did:plc:zg2x57gkok22jm4jrkdp46n4,gojirawave.bsky.social
+did:plc:uu5axsmbm2or2dngy4gwchec,futur.blue
+did:plc:rj4i3rfzwlj5zlqhx6435taq,there.is.no.aarch64.mov
+did:plc:egpxmsya32mhhh5smd375vcx,jik.wtf
+did:plc:ted76bi2gdyclvug3nvggoy4,thotstream.bsky.social
 did:plc:eqjxwer2gyycshur7svgopcj,unspoken--names.bsky.social
 did:plc:upmjygwhb4lpqkne3hqsykks,spaceds8008s.bsky.social
 did:plc:6vfij36x5fdvhsqf5pgemkrv,thatnerd64.online
@@ -34,7 +40,7 @@ did:plc:4ribxmi5z7ei6yy3ahb64jpr,emoeboy.bsky.social
 did:plc:2zpwetl5exgarpm2wtwhpeke,girlboss.dev
 did:plc:45hmyfw3hap646kfr7zckeah,natsu.lol
 did:plc:rlcs5oekefwuidajnipey3a5,reduxgb.com
-did:plc:p3vdrhjpqfnrj5523b5dnl7c,slaypussyhat.gay
+did:plc:p3vdrhjpqfnrj5523b5dnl7c,handle.invalid
 did:plc:oudrzk5wqgcve2d6mp5ouiif,zigshroom.bsky.social
 did:plc:uynpich2hsqmryyhr3moz5re,pavedwalden.bsky.social
 did:plc:wnhgol2giigix7dhnhcqpqix,emowolf.bsky.social
@@ -79,7 +85,7 @@ did:plc:x3uhmjt7zinaomzwczjyeen7,phencyclidineangel.bsky.social
 did:plc:katl2n3xfpfwpv45aiwwtbrb,cara.city
 did:plc:uqeyuwrb4s7da5m5r77q2hv2,amyklobuchar.bsky.social
 did:plc:yok6byfgnrkkq5r5sbphulie,ruralindexing.bsky.social
-did:plc:cuxdsxpymbr7rsavgxx52vpo,moonbasetwo.bsky.social
+did:plc:cuxdsxpymbr7rsavgxx52vpo,moonbasetomb.bsky.social
 did:plc:e2lf4gl7hdr43ofyhntaeqye,kunaiposting.bsky.social
 did:plc:4e7souarnyslegx456geyekg,xxoxx.bsky.social
 did:plc:wbxlr7nn6circzbjz4rootar,androgyne.online
@@ -138,7 +144,6 @@ did:plc:zu6mvjy4tw2hwczg6slxhto2,cyberia.computer
 did:plc:tgtax6h57tux6mmy7rskrfc7,saiko.bsky.social
 did:plc:gqrz2tdzku3w72skzo5coyc3,blockenheimer.click
 did:plc:ceewrprgvn5ttkdwaz6nbp4d,casinodweller.bsky.social
-did:plc:hnmxwfrqd2ezab57zbhwvifr,oceanangel.bsky.social
 did:plc:gtzao6ouhbrnnz2cnqrxjxyf,gayassgearhead.bsky.social
 did:plc:ng5rexah7uahfq3snbvolz63,averymausington.bsky.social
 did:plc:ohrmjioa7gwh6dxsjihqfuql,leezartti.me

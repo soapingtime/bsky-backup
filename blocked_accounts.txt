@@ -136,7 +136,6 @@ did:plc:uc7f4j5zuqwwyvctnkecjdrr,feivishzelner.bsky.social
 did:plc:jawykmdc4acgqivjfjtbcmeu,vonsnegghausen.bsky.social
 did:plc:zgpnp2h4lrwveqoukvuccwpz,austropode.bsky.social
 did:plc:zhe3x7ssrilusx463guqrkxf,evandrovogel.bsky.social
-did:plc:f6gu5a5pvjlxj3625jqimfsz,enidcoleslaw.bsky.social
 did:plc:uas6hwpiwfhkep62baacgx5m,graygay.bsky.social
 did:plc:xn3ajefoonnu3ghwzempzui2,therealjchubby.bsky.social
 did:plc:rdxctmtu3mt56fzpsxjzy7j6,tech-news.bsky.social
