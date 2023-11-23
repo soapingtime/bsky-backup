@@ -25,7 +25,6 @@ did:plc:krmiuhowkvx23xak3t4ccixb,jaidchen.bsky.social
 did:plc:icfy2als5x3v6h4jc3lnpgym,diemaus.bsky.social
 did:plc:t4gky4gzvtwtl2io74zd5ut4,heikemax.bsky.social
 did:plc:xtwsjfki6pa55nnv4ox6wiol,kickturk.bsky.social
-did:plc:hnejogp6ooej62b2a4ttw3tt,ingridschulze58.bsky.social
 did:plc:3bhdiy32xlx3b227hdhgf6vm,thedrunkraccoon.bsky.social
 did:plc:kzjdisbuqgbivlq2szftns4y,herrgrafolaf.bsky.social
 did:plc:hld55ymy5hziwjucw7tvjito,dogsoupismagic.bsky.social
@@ -154,7 +153,7 @@ did:plc:hz2feujkhph2vcj6kevmtqjh,kitthecatgirl.bsky.social
 did:plc:5krm4pb5gecb5uawvgr7uxuu,90sanime.pics
 did:plc:ha5tvry6kkxiujam6kyjgagg,poeticalphotos.bsky.social
 did:plc:xgjcudwc5yk4z2uex5v6e7bl,aliafonzy.bsky.social
-did:plc:mntf7v3f3qizk5mmlfgcfkke,rosewilson.bsky.social
+did:plc:mntf7v3f3qizk5mmlfgcfkke,rosewilson.pages.dev
 did:plc:kefkvmtqpy2j5f4mv4zp75qc,eviljoy36.bsky.social
 did:plc:ylmbufmy5btcigjk27oup4zl,nature.bsky.social
 did:plc:fl5ztptq45qb2qbyo2wkojjk,shouldhavecat.bsky.social
