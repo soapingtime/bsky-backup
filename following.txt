@@ -1,3 +1,4 @@
+did:plc:nzrozayxq764zbgl4qtp5ald,b0rk.jvns.ca
 did:plc:4weefonhaz2rmpq6qnjlcv4e,ryanjanus.bsky.social
 did:plc:zg2x57gkok22jm4jrkdp46n4,gojirawave.bsky.social
 did:plc:uu5axsmbm2or2dngy4gwchec,futur.blue
@@ -71,7 +72,7 @@ did:plc:djwbofc7txyiyrqv6wtesghr,tameranian.bsky.social
 did:plc:e4fsmjcj33khuqi6prspceiy,chiefkeef2.bsky.social
 did:plc:srd6dnnrv7blmbi3aqfl2wui,bighammy.bsky.social
 did:plc:2czu76ohiskwfehlecbchppx,bitdizzy.bsky.social
-did:plc:gbgurvrbxdvxgosn3ixfipm2,sirenovoid.bsky.social
+did:plc:gbgurvrbxdvxgosn3ixfipm2,sirenofvoid.bsky.social
 did:plc:wzjoqxvghocxiu6sn4xwtyfh,oakley.bsky.social
 did:plc:siul2ctdwvvrzfnfhyunmgvh,proton.me
 did:plc:hdf3jzbrmzjjadrrxpz4ck5i,gaymay.bsky.social
@@ -95,7 +96,6 @@ did:plc:yz6nsxn45mgbofke6yewyxvq,theinternet.bsky.social
 did:plc:xknt2gpkdlq7dswc3wc2zz6k,vileblood.gay
 did:plc:flxaunyqkoxfyhf5zpovkr6v,himbovevo.bsky.social
 did:plc:l43lrx2zwgplocyr5lqijvwn,stupidmutt.bsky.social
-did:plc:rbsmeje3gvbqtfswafpfuqiz,lalonde.bsky.social
 did:plc:pvo5njihbavc4ht5apt6ggvt,gimpstring.bsky.social
 did:plc:if4qomzxfxja6xf6jenxruex,dumbkitty.bsky.social
 did:plc:rrqp7a7jw5tfy5ge64dzzajn,alea.ingroup.social
@@ -106,7 +106,7 @@ did:plc:tzc4liux326gyrwwpus7gqpy,saeko.bsky.social
 did:plc:bnqkww7bjxaacajzvu5gswdf,shreyanjain.net
 did:plc:ew66n5udoqzjo3n3p4ekx572,dapresident.bsky.social
 did:plc:cj5szj3mu2ood66kls7oifmk,thecybersmith.bsky.social
-did:plc:fln5yais5hodxuby5vxhhqy3,controversi.al
+did:plc:fln5yais5hodxuby5vxhhqy3,obnoxio.us
 did:plc:xfbunnwahp64mjuz74hmkwh2,vallieplushie.bsky.social
 did:plc:iqkvdiurx7ih7wfs4minerom,aumgensokyo.bsky.social
 did:plc:w4es6sfh43zlht3bgrzi5qzq,jazbot.jazco.dev
