@@ -1,6 +1,7 @@
 did:plc:kazwkrel3bvgeqm3wdiydwdf,aisky.bsky.social
 did:plc:5xtlomf53fdgiwg6qv6chdxo,amazingnature.bsky.social
 did:plc:bndbpculmlr7pqq4rr3y3ezr,frog-frens33.bsky.social
+did:plc:gr6glr3getmxszdshfg6zozs,hstark.bsky.social
 did:plc:ckkf3livex5gokpftkgihcme,satinlady.com
 did:plc:7ep6d4byk2kqb6imgqutyxyw,alleraus49.bsky.social
 did:plc:v7632qt2aemvxxp745obhspl,everyones-fren48.bsky.social

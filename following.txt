@@ -1,3 +1,5 @@
+did:plc:cklskfrciopldpy2ldjh4pat,bindlecore.bsky.social
+did:plc:iag6gnofwi6xuz6rrmh35ifj,bladeeoffical.bsky.social
 did:plc:nzrozayxq764zbgl4qtp5ald,b0rk.jvns.ca
 did:plc:4weefonhaz2rmpq6qnjlcv4e,ryanjanus.bsky.social
 did:plc:zg2x57gkok22jm4jrkdp46n4,gojirawave.bsky.social
@@ -141,7 +143,7 @@ did:plc:i5mvo22kcxsmqn6e3lgjbfnf,nacl.sh
 did:plc:jrk35qtbjxgv2cy5mudzacqg,realnotoriousrad.soy
 did:plc:wggityqliv3rgttovlnihozm,girldick.bsky.social
 did:plc:zu6mvjy4tw2hwczg6slxhto2,cyberia.computer
-did:plc:tgtax6h57tux6mmy7rskrfc7,saiko.bsky.social
+did:plc:tgtax6h57tux6mmy7rskrfc7,saikocl.com
 did:plc:gqrz2tdzku3w72skzo5coyc3,blockenheimer.click
 did:plc:ceewrprgvn5ttkdwaz6nbp4d,casinodweller.bsky.social
 did:plc:gtzao6ouhbrnnz2cnqrxjxyf,gayassgearhead.bsky.social

@@ -1,3 +1,7 @@
+did:plc:2pgynn6idqebqjvbhmg7xequ,kaansnl.bsky.social
+did:plc:pnflrfbnzhzjv2rysrxymdwh,beigeman.bsky.social
+did:plc:rm3eyqlp6sdasdxmpdoz372j,teaktop.bsky.social
+did:plc:iag6gnofwi6xuz6rrmh35ifj,bladeeoffical.bsky.social
 did:plc:y5kb5of6ko4i3c6w5l2gv7sy,mikjaer.com
 did:plc:2lkmjo2dpos7aaebobiff66f,moonissomewhere.bsky.social
 did:plc:fdfqqvwssd7wpyqo37j7pm27,lgnwndt.bsky.social
@@ -351,7 +355,7 @@ did:plc:6zfgmvghpidjvcn3cqtitnx5,fenny.space
 did:plc:dre4efflq4xsbmhpzlssbjmb,nanners.bsky.social
 did:plc:g4eqp5z3tnwvurfqsgi7uf2k,casey.moe
 did:plc:wgoa7ucr57jyd4b7m4ykwyny,coffeebeen.bsky.social
-did:plc:tgtax6h57tux6mmy7rskrfc7,saiko.bsky.social
+did:plc:tgtax6h57tux6mmy7rskrfc7,saikocl.com
 did:plc:5v6p3znwekni6oltuupjlnng,genuineloser.bsky.social
 did:plc:xbehcvlodavqyc2x27gfir7w,eefuh.bsky.social
 did:plc:j24gtjdqe5bkyserkeudiqfw,limeoceana.bsky.social
