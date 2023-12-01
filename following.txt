@@ -1,3 +1,4 @@
+did:plc:52brvupjdwudxybba5qrzs3i,erin.social
 did:plc:cklskfrciopldpy2ldjh4pat,bindlecore.bsky.social
 did:plc:iag6gnofwi6xuz6rrmh35ifj,bladeeoffical.bsky.social
 did:plc:nzrozayxq764zbgl4qtp5ald,b0rk.jvns.ca
@@ -108,7 +109,7 @@ did:plc:tzc4liux326gyrwwpus7gqpy,saeko.bsky.social
 did:plc:bnqkww7bjxaacajzvu5gswdf,shreyanjain.net
 did:plc:ew66n5udoqzjo3n3p4ekx572,dapresident.bsky.social
 did:plc:cj5szj3mu2ood66kls7oifmk,thecybersmith.bsky.social
-did:plc:fln5yais5hodxuby5vxhhqy3,obnoxio.us
+did:plc:fln5yais5hodxuby5vxhhqy3,ky.letun.es
 did:plc:xfbunnwahp64mjuz74hmkwh2,vallieplushie.bsky.social
 did:plc:iqkvdiurx7ih7wfs4minerom,aumgensokyo.bsky.social
 did:plc:w4es6sfh43zlht3bgrzi5qzq,jazbot.jazco.dev
