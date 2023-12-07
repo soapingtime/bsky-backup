@@ -1,3 +1,6 @@
+did:plc:i2ghu6o63j6bv2grvokyorsg,thecactuarmatt.bsky.social
+did:plc:yaednivr2bwik2fux27l6sgm,velodus.bsky.social
+did:plc:riavpubkcnknruh6tifs33ji,damatthook.bsky.social
 did:plc:kazwkrel3bvgeqm3wdiydwdf,aisky.bsky.social
 did:plc:5xtlomf53fdgiwg6qv6chdxo,amazingnature.bsky.social
 did:plc:bndbpculmlr7pqq4rr3y3ezr,frog-frens33.bsky.social

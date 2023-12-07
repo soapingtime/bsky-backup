@@ -1,3 +1,4 @@
+did:plc:lvkaxldpqacgenpnsdv42uou,runehart.bsky.social
 did:plc:bv4ld4dkwbf2bbkjswytbdz3,ghostlysable.bsky.social
 did:plc:mie3urqt6sfqllvvw7gp4llz,dollblood.moe
 did:plc:kuzwlmess4wyoufryjgmub7e,jessiealiceboy.bsky.social
