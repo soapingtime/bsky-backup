@@ -1,3 +1,5 @@
+did:plc:j3i3yxjk65rexptspynrj5bd,haicat.moe
+did:plc:gutnroycqp7qw2sf5fxte42k,dorkydawn.bsky.social
 did:plc:lvkaxldpqacgenpnsdv42uou,runehart.bsky.social
 did:plc:bv4ld4dkwbf2bbkjswytbdz3,ghostlysable.bsky.social
 did:plc:mie3urqt6sfqllvvw7gp4llz,dollblood.moe

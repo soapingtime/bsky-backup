@@ -1,3 +1,7 @@
+did:plc:nrzlleanbl2bgfqe6plmput6,wg2k.bsky.social
+did:plc:nqcdrxlnebwoszt4ecql64i6,aerialash.bsky.social
+did:plc:vnb72vzlfcyzdflk5c5zxc6a,chiefkeef-real.bsky.social
+did:plc:k4orvi37n2rfkfcffkpqxzys,jackjonson.bsky.social
 did:plc:bncjyxys64ug4ked7kay6shp,keeviin.bsky.social
 did:plc:cyt4bxfmtrmawwbhwajwacau,s0ap.bsky.social
 did:plc:dl35zlga3i4egfrnc4yzda6n,felina.fish
@@ -79,6 +83,7 @@ did:plc:fgd4h4fwusrcfukesl7axe5e,poieticweb.bsky.social
 did:plc:djwbofc7txyiyrqv6wtesghr,tameranian.bsky.social
 did:plc:e4fsmjcj33khuqi6prspceiy,chiefkeef2.bsky.social
 did:plc:srd6dnnrv7blmbi3aqfl2wui,bighammy.bsky.social
+did:plc:2czu76ohiskwfehlecbchppx,bitdizzy.bsky.social
 did:plc:gbgurvrbxdvxgosn3ixfipm2,sirenofvoid.bsky.social
 did:plc:wzjoqxvghocxiu6sn4xwtyfh,oakley.bsky.social
 did:plc:siul2ctdwvvrzfnfhyunmgvh,proton.me
@@ -112,7 +117,7 @@ did:plc:tzc4liux326gyrwwpus7gqpy,saeko.bsky.social
 did:plc:bnqkww7bjxaacajzvu5gswdf,shreyanjain.net
 did:plc:ew66n5udoqzjo3n3p4ekx572,dapresident.bsky.social
 did:plc:cj5szj3mu2ood66kls7oifmk,thecybersmith.bsky.social
-did:plc:fln5yais5hodxuby5vxhhqy3,silhouett.es
+did:plc:fln5yais5hodxuby5vxhhqy3,obnoxio.us
 did:plc:xfbunnwahp64mjuz74hmkwh2,vallieplushie.bsky.social
 did:plc:iqkvdiurx7ih7wfs4minerom,aumgensokyo.bsky.social
 did:plc:w4es6sfh43zlht3bgrzi5qzq,jazbot.jazco.dev

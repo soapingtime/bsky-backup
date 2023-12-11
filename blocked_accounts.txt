@@ -1,3 +1,4 @@
+did:plc:yv4g3qpmt6god5zaiqwsu3uq,scumbelievable.bsky.social
 did:plc:i2ghu6o63j6bv2grvokyorsg,thecactuarmatt.bsky.social
 did:plc:yaednivr2bwik2fux27l6sgm,velodus.bsky.social
 did:plc:riavpubkcnknruh6tifs33ji,damatthook.bsky.social
@@ -156,7 +157,7 @@ did:plc:hz2feujkhph2vcj6kevmtqjh,kitthecatgirl.bsky.social
 did:plc:5krm4pb5gecb5uawvgr7uxuu,90sanime.pics
 did:plc:ha5tvry6kkxiujam6kyjgagg,poeticalphotos.bsky.social
 did:plc:xgjcudwc5yk4z2uex5v6e7bl,aliafonzy.bsky.social
-did:plc:mntf7v3f3qizk5mmlfgcfkke,rosewilson.pages.dev
+did:plc:mntf7v3f3qizk5mmlfgcfkke,handle.invalid
 did:plc:kefkvmtqpy2j5f4mv4zp75qc,eviljoy36.bsky.social
 did:plc:ylmbufmy5btcigjk27oup4zl,nature.bsky.social
 did:plc:fl5ztptq45qb2qbyo2wkojjk,shouldhavecat.bsky.social

@@ -1,3 +1,15 @@
+did:plc:rlponjpn7qnbtmusv7jxl3as,tiego.bsky.social
+did:plc:rkhq6dskzdjtq4ojpqpv2pfv,valenv.bsky.social
+did:plc:nqcdrxlnebwoszt4ecql64i6,aerialash.bsky.social
+did:plc:ce5syectrlkanwwds76g22bv,el3ctrickitty.bsky.social
+did:plc:2cfwbjtsquk4ptk5vl5efsk4,yaoijesus.bsky.social
+did:plc:kvdpwyzvdhl5yvk2v4cla6bv,markreel.bsky.social
+did:plc:67cmimfmk2q3rwexagj6y5j5,nightheron.bsky.social
+did:plc:pfs5plbvxqwicww6fky6lmsl,crossslide.bsky.social
+did:plc:gttrfs4hfmrclyxvwkwcgpj7,shitposting.vip
+did:plc:k4orvi37n2rfkfcffkpqxzys,jackjonson.bsky.social
+did:plc:queiogp4cavuzrnq4k3hxh6t,lawyersheryl.com
+did:plc:y7o4arpwp5xv3zp2bygu5lt4,tentz.bsky.social
 did:plc:rl7rntq3jjv6ejtz6sesq5qt,twixmixy.bsky.social
 did:plc:3bkg4rtexrh5klsvqwikcjq6,videl.fslhome.org
 did:plc:f3ivfeiamsbjz6ayfddgcpfs,rrrodddyyy.bsky.social
@@ -140,7 +152,7 @@ did:plc:476wdianoch2e7df2uw4i7uc,erashy072.bsky.social
 did:plc:ko2sngwjzwurbhhpj27j5czx,flowerssunrain.omg.lol
 did:plc:zzp52njycx34ecru4tgzwk6v,dedusmulntxt.bsky.social
 did:plc:coe636ufo6qkscxl62rspep6,durand.al
-did:plc:y6e4suxevznha6rjug2qbw7f,handle.invalid
+did:plc:y6e4suxevznha6rjug2qbw7f,nkizz.com
 did:plc:njyuqhuroqwbswjfbmtvp754,reddebrek.bsky.social
 did:plc:poeo2apqigxmjzxamhglnwiv,wholeslayer.bsky.social
 did:plc:rdbn6nnwojkgiwfsvyhj3ywb,baphomette.bsky.social
@@ -214,6 +226,7 @@ did:plc:kmouurhdi6rkavx47iu72na3,gurt.bsky.social
 did:plc:ani4xsqcktcbqmwfgy6yt55u,hellemans.bsky.social
 did:plc:m2254ns2iklzxwwfjvuco6hp,annieles.bsky.social
 did:plc:ta2ceq5nm2476h5jwcqps5vy,brucebates.bsky.social
+did:plc:2czu76ohiskwfehlecbchppx,bitdizzy.bsky.social
 did:plc:pvo5njihbavc4ht5apt6ggvt,gimpstring.bsky.social
 did:plc:2svdlwhlbdhkwbyri26hzlsv,asrachnid.bsky.social
 did:plc:z2rkiujjbsfglha4g3caaqci,wholesomememes.bsky.social
@@ -242,7 +255,7 @@ did:plc:bu2fybsqrv7caj7zv6utf2wo,yen-nefer.bsky.social
 did:plc:nocdhbinmjl7zs4bu52maxkp,tetris-enjoyer.bsky.social
 did:plc:if4qomzxfxja6xf6jenxruex,dumbkitty.bsky.social
 did:plc:r6irwmmbqbg4jzxcdfpltq6t,scraunched.bsky.social
-did:plc:fln5yais5hodxuby5vxhhqy3,silhouett.es
+did:plc:fln5yais5hodxuby5vxhhqy3,obnoxio.us
 did:plc:z3qeco5sas7nzxq7rrcqj3be,culturalposadist.bsky.social
 did:plc:yz6nsxn45mgbofke6yewyxvq,theinternet.bsky.social
 did:plc:qyg6l5zkjcx6q77jvf4yxke2,comradeotaku.bsky.social
