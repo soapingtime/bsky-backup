@@ -1,3 +1,13 @@
+did:plc:l4mgphbba3k6lv2stprzxzjp,trumptony.bsky.social
+did:plc:wl566elrfi4b45iamk5v5zlu,tagu.fr
+did:plc:ud7m3elmug234hvtz37om3mb,scottthejanitor.bsky.social
+did:plc:26roy2zhbsokzwlvqgjyhsqa,mitexleo.bsky.social
+did:plc:fof5jfeq45ps5tssb2vxuvzu,hellomitty.bsky.social
+did:plc:3ynfbgpgzez7c4nl2xrvvl2k,golamqauser.bsky.social
+did:plc:474ldquxwzrlcvjhhbbk2wte,josie.zone
+did:plc:acxbkashqlzi2uljq3ywd3as,daniel.fiii.xyz
+did:plc:7nmnou7umkr46rp7u2hbd3nb,josh.uno
+did:plc:l46pjipxmhspshlwgbmpcnfz,fnando.bsky.social
 did:plc:rlponjpn7qnbtmusv7jxl3as,tiego.bsky.social
 did:plc:rkhq6dskzdjtq4ojpqpv2pfv,valenv.bsky.social
 did:plc:nqcdrxlnebwoszt4ecql64i6,aerialash.bsky.social
@@ -174,7 +184,7 @@ did:plc:rm6pwu6jemnhga5d4tkeoiyz,scarlet.zone
 did:plc:csmgpwkvoxf4ydlbqpe57olg,gobz.online
 did:plc:y2kcajvqb34cxomox247mif2,ludditeprincess.bsky.social
 did:plc:z74mdsiatwzaibjneoepta4a,foxsputnik.bsky.social
-did:plc:hkndjs2e44t7cv4lvxsnyclo,looona.io
+did:plc:hkndjs2e44t7cv4lvxsnyclo,handle.invalid
 did:plc:b5mobu7semg65v2tmiklrrql,cute.church
 did:plc:2h33ukcmei7bntcctmiwjxm5,oannaybz.bsky.social
 did:plc:ku5rp3klpbgdsldxhjatjnmf,oestrogoth.bsky.social
@@ -255,7 +265,7 @@ did:plc:bu2fybsqrv7caj7zv6utf2wo,yen-nefer.bsky.social
 did:plc:nocdhbinmjl7zs4bu52maxkp,tetris-enjoyer.bsky.social
 did:plc:if4qomzxfxja6xf6jenxruex,dumbkitty.bsky.social
 did:plc:r6irwmmbqbg4jzxcdfpltq6t,scraunched.bsky.social
-did:plc:fln5yais5hodxuby5vxhhqy3,obnoxio.us
+did:plc:fln5yais5hodxuby5vxhhqy3,undeserv.ing
 did:plc:z3qeco5sas7nzxq7rrcqj3be,culturalposadist.bsky.social
 did:plc:yz6nsxn45mgbofke6yewyxvq,theinternet.bsky.social
 did:plc:qyg6l5zkjcx6q77jvf4yxke2,comradeotaku.bsky.social
@@ -289,7 +299,6 @@ did:plc:2wiyvijnczdbvxiuxporf4vs,triplemmmpod.bsky.social
 did:plc:wvdviodalltqie43vnelvrge,justhappy2cu.bsky.social
 did:plc:u527appaadb6fbqdw6syy6dj,elmur.bsky.social
 did:plc:ewrx5unendeler6bsocabcy7,zelkova.zone
-did:plc:sh6wbfcts6jdn7uqu3ggwy6q,greatmothsucks.bsky.social
 did:plc:hrqwngkxqcxffdwazjgdcmfk,ruthenic.com
 did:plc:bftcgvd75iwcu6ypxn6rticg,ovenware.bsky.social
 did:plc:eengfwxzn3dqmccs2ka6krte,h1yb33.bsky.social
@@ -325,7 +334,7 @@ did:plc:gtzao6ouhbrnnz2cnqrxjxyf,gayassgearhead.bsky.social
 did:plc:pp75d5hgiueryvekuqritvdj,slurpman.bsky.social
 did:plc:h2bx4w5zpguhyo4jzjuqdqys,pdxoliveoilguy.bsky.social
 did:plc:ng5rexah7uahfq3snbvolz63,averymausington.bsky.social
-did:plc:lykfbr5lf676aoxwy6tsdhwb,bzanderson.bsky.social
+did:plc:lykfbr5lf676aoxwy6tsdhwb,bashfulb.bsky.social
 did:plc:xpwxmg6ix3b65uki6z5kkb3x,milady.bsky.social
 did:plc:bsrfxtm7mglrznx4f2f7yyly,rudytues.day
 did:plc:v4layh57gqnqfxmbbwarkull,synthena.bsky.social
