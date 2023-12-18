@@ -1,5 +1,15 @@
-did:plc:l4mgphbba3k6lv2stprzxzjp,trumptony.bsky.social
-did:plc:wl566elrfi4b45iamk5v5zlu,tagu.fr
+did:plc:p3c7otbnyv56k4bive7xualn,iskewabe.bsky.social
+did:plc:buw5d7niy3cetk3xx2yvnmc4,johnsmitth.bsky.social
+did:plc:n3tgni7rycxch2ob7h72god3,maegul.net
+did:plc:vlxlozmkzues6n4pm46hlnpz,celalcan.net
+did:plc:edkxgypb2w326lyjystbhb67,jaywallc.bsky.social
+did:plc:v3xfzqa664kwpcqnceevp2kd,randyperry413.bsky.social
+did:plc:g3x6c3vv4stcmytbzvgpaj4p,newblicious.bsky.social
+did:plc:dquxlcujghet42ahtvoup62n,yasssquinn.bsky.social
+did:plc:ekakc6ukwom6kbkhttmf5iot,emmz.bsky.social
+did:plc:5rw2on4i56btlcajojaxwcat,eepy.bsky.social
+did:plc:yxx2f4gk3fqemgpir4h5eosa,whisperedcollusion.bsky.social
+did:plc:qbiusvotgfc5goe42gmuz2vr,duksis.bsky.social
 did:plc:ud7m3elmug234hvtz37om3mb,scottthejanitor.bsky.social
 did:plc:26roy2zhbsokzwlvqgjyhsqa,mitexleo.bsky.social
 did:plc:fof5jfeq45ps5tssb2vxuvzu,hellomitty.bsky.social
@@ -55,7 +65,6 @@ did:plc:sflxm2fxohaqpfgahgdlm7rl,surfdude29.bsky.social
 did:plc:vamivfvoqgb2u42goud7vnqh,kingadahipsters.bsky.social
 did:plc:ba5odo3tdi6i3pmu5szn3aqh,human-being.bsky.social
 did:plc:pygqu7xua7jg7gmyinkdxis7,tacohitbox.com
-did:plc:aetkmrqkn3aevjxpgsv6o7hy,usenet.bsky.social
 did:plc:s6wo3m6k4idlq6wvkaibaxvy,realarzcena.bsky.social
 did:plc:36e2essag6q3dspvlyozbeqw,bezig.bsky.social
 did:plc:6vfij36x5fdvhsqf5pgemkrv,thatnerd64.online
@@ -287,7 +296,6 @@ did:plc:3ud6tuhl2hsp52dmenud4wj3,ddewey.bsky.social
 did:plc:fi2h3erarn7qv7qhefrvxly3,vraptor.bsky.social
 did:plc:nsxepwosqi5f3zhqmxxblnsp,cashlin.bsky.social
 did:plc:2k7765yfl32bwwezftqr3ygv,snowchain21.bsky.social
-did:plc:rrg2vgtespmbyygwgbinyovk,presidentobama.bsky.social
 did:plc:abzpyoyzhdakkyuel6yifxtj,linde.bsky.social
 did:plc:dy7vbo4ao7lyxbz2eadimzpw,drinkfresca.online
 did:plc:n2wj7s6cmef4qyzh64kpject,weedkitty1435.bsky.social
@@ -356,6 +364,7 @@ did:plc:xknt2gpkdlq7dswc3wc2zz6k,vileblood.gay
 did:plc:ueqqwwt7zba4pmruyh424t4v,bugsnaxxx.bsky.social
 did:plc:ehm5iymhdfro453ppjv2gutz,tgirl.digital
 did:plc:ah3j3in4wblokt7fjmuckomu,slime.bsky.social
+did:plc:p5yxt2rdnddnsybcnae6dato,emilywebsite.bsky.social
 did:plc:zybwp5bvuh5ubdwsfjtgqkzk,cinemas.bsky.social
 did:plc:litguejevw4hzywhtshf477n,justalicemai.bsky.social
 did:plc:afokxu226s5lfgunocenckfo,scatter.flowers

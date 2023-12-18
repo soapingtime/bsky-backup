@@ -55,7 +55,6 @@ did:plc:sarmnwbf6shtww5qjmqngcgn,m4sherman.bsky.social
 did:plc:gfso4lto34ure2etxasfmjc2,bnny.bsky.social
 did:plc:d26dgpddl5ci63a53kuv6jb4,4scii.bsky.social
 did:plc:ux7vc3mfl6w62b4svu3krayb,feit.bsky.social
-did:plc:kckfwsdac5v4bnoqaggbg4sq,koalsen.bsky.social
 did:plc:akbhieh4xmg3wzhvoipmiveu,kichernderfuchs.bsky.social
 did:plc:ypc45sul6l4zdppoajqsirf4,oliver-1909.bsky.social
 did:plc:b6sh2pavwxvkjsbpxy7rbhkd,herdelhein.bsky.social
@@ -79,7 +78,6 @@ did:plc:3fdi5ge3dnpwkim6wlzd5gvk,muellmanfred.bsky.social
 did:plc:6ymnoiguolvwu7nfjka6meqs,homoschwul.bsky.social
 did:plc:gb6ep6w5bekoqleep6xtgezd,voltairevbd.bsky.social
 did:plc:fd2p5ntu4kj7wtnxg3wohtz2,suspanda.bsky.social
-did:plc:idqsvacuhao7oi2sgugyct3o,britannienpepe.bsky.social
 did:plc:adzi6o7xq2yjq6tskjbxpl6k,hansiwurst88.bsky.social
 did:plc:l2jwbae4qromgta56p7bnbc5,seelennacht.bsky.social
 did:plc:mvb6qwsx3lea64vdwtzbqwii,heinrich42.bsky.social
@@ -171,7 +169,6 @@ did:plc:mgftsovindbralcmhen55jpy,000.bsky.social
 did:plc:x4czgbljzdfbctxsujpuqwkt,tnd.bsky.social
 did:plc:lferkoyzkk7ptmiy5o6oxzug,patrickdattilio.bsky.social
 did:plc:dzlokh3fzrkyfkeusuyktq4l,gamelia.bsky.social
-did:plc:p5yxt2rdnddnsybcnae6dato,emilywebsite.bsky.social
 did:plc:gtxsqmstpopdj3iooo3uzz6w,fendersonia.bsky.social
 did:plc:64zyeexwq37nx6h7xvke4cow,joshuaphill.bsky.social
 did:plc:5ueil43ubjzmohs4h2wizxfo,ariemoyal.com

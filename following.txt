@@ -162,6 +162,7 @@ did:plc:ng5rexah7uahfq3snbvolz63,averymausington.bsky.social
 did:plc:ohrmjioa7gwh6dxsjihqfuql,leezartti.me
 did:plc:coe636ufo6qkscxl62rspep6,durand.al
 did:plc:aack7agplorbdwe2mmjdkdy2,p0tus.bsky.social
+did:plc:p5yxt2rdnddnsybcnae6dato,emilywebsite.bsky.social
 did:plc:lfsublvyskdxbofq3sl7bjkh,defcon.bsky.social
 did:plc:jfhpnnst6flqway4eaeqzj2a,bossett.bsky.social
 did:plc:shhbtgu5o3n2ro7hw5pzyuob,sunny-gains.bsky.social
