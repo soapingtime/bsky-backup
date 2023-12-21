@@ -78,6 +78,7 @@ did:plc:3fdi5ge3dnpwkim6wlzd5gvk,muellmanfred.bsky.social
 did:plc:6ymnoiguolvwu7nfjka6meqs,homoschwul.bsky.social
 did:plc:gb6ep6w5bekoqleep6xtgezd,voltairevbd.bsky.social
 did:plc:fd2p5ntu4kj7wtnxg3wohtz2,suspanda.bsky.social
+did:plc:idqsvacuhao7oi2sgugyct3o,britannienpepe.bsky.social
 did:plc:adzi6o7xq2yjq6tskjbxpl6k,hansiwurst88.bsky.social
 did:plc:l2jwbae4qromgta56p7bnbc5,seelennacht.bsky.social
 did:plc:mvb6qwsx3lea64vdwtzbqwii,heinrich42.bsky.social

@@ -1,3 +1,11 @@
+did:plc:3bgmytixmm35zn7777bni5mn,strawberry92fs.bsky.social
+did:plc:5pglpd2fpedu5eriqbcf4rdr,hossamfareed.bsky.social
+did:plc:3a25qxalfaetb3hiy3manamf,perkoch.bsky.social
+did:plc:sgap7y5auysaa4o4sa4h26sb,3v3ryman.bsky.social
+did:plc:7xe2evq2cn5cb6mugijbqlds,knvllngr.bsky.social
+did:plc:3w7qz5o55x6hv5aiie6omzkv,zosimus.bsky.social
+did:plc:c7tarhajiv6usf3vilr5u7mq,the-murderhobos.bsky.social
+did:plc:ssf4aegkwgat3xbhu6dnzkc4,aaleyahamondiren.bsky.social
 did:plc:p3c7otbnyv56k4bive7xualn,iskewabe.bsky.social
 did:plc:buw5d7niy3cetk3xx2yvnmc4,johnsmitth.bsky.social
 did:plc:n3tgni7rycxch2ob7h72god3,maegul.net
@@ -274,7 +282,7 @@ did:plc:bu2fybsqrv7caj7zv6utf2wo,yen-nefer.bsky.social
 did:plc:nocdhbinmjl7zs4bu52maxkp,tetris-enjoyer.bsky.social
 did:plc:if4qomzxfxja6xf6jenxruex,dumbkitty.bsky.social
 did:plc:r6irwmmbqbg4jzxcdfpltq6t,scraunched.bsky.social
-did:plc:fln5yais5hodxuby5vxhhqy3,undeserv.ing
+did:plc:fln5yais5hodxuby5vxhhqy3,silhouett.es
 did:plc:z3qeco5sas7nzxq7rrcqj3be,culturalposadist.bsky.social
 did:plc:yz6nsxn45mgbofke6yewyxvq,theinternet.bsky.social
 did:plc:qyg6l5zkjcx6q77jvf4yxke2,comradeotaku.bsky.social
@@ -431,7 +439,7 @@ did:plc:ndgvbmijcaedrlzm5xvbchbg,heavenobscured.bsky.social
 did:plc:iraa65ejnjx6lxfsuytsrsog,preachyidler.gay
 did:plc:awtdo7unpzklzvnwck4e2hrv,forzeth.bsky.social
 did:plc:l2xmwmwij3maxkzvqbk4ri4b,harlow.bsky.social
-did:plc:adtzorbhmmjbzxsl2y4vqlqs,seiso.moe
+did:plc:adtzorbhmmjbzxsl2y4vqlqs,waffle.casa
 did:plc:bw7yi2j5f7ndhemwcleiblis,kittycultist.xyz
 did:plc:4bnduvcjhyeyl3gzeezdw3v2,poker210.bsky.social
 did:plc:dibromful455mkjqparyc7vh,ohai.bsky.social

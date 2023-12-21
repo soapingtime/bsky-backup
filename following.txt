@@ -1,3 +1,6 @@
+did:plc:mymwxdm4zedrqufkotuxn72k,tuyoki.bsky.social
+did:plc:pp75d5hgiueryvekuqritvdj,slurpman.bsky.social
+did:plc:cak4klqoj3bqgk5rj6b4f5do,mmasnick.bsky.social
 did:plc:gttrfs4hfmrclyxvwkwcgpj7,shitposting.vip
 did:plc:44ybard66vv44zksje25o7dz,bnewbold.net
 did:plc:nrzlleanbl2bgfqe6plmput6,wg2k.bsky.social
@@ -119,10 +122,9 @@ did:plc:tzc4liux326gyrwwpus7gqpy,saeko.bsky.social
 did:plc:bnqkww7bjxaacajzvu5gswdf,shreyanjain.net
 did:plc:ew66n5udoqzjo3n3p4ekx572,dapresident.bsky.social
 did:plc:cj5szj3mu2ood66kls7oifmk,thecybersmith.bsky.social
-did:plc:fln5yais5hodxuby5vxhhqy3,undeserv.ing
+did:plc:fln5yais5hodxuby5vxhhqy3,silhouett.es
 did:plc:xfbunnwahp64mjuz74hmkwh2,vallieplushie.bsky.social
 did:plc:iqkvdiurx7ih7wfs4minerom,aumgensokyo.bsky.social
-did:plc:w4es6sfh43zlht3bgrzi5qzq,jazbot.jazco.dev
 did:plc:xroh7jwbnc7bsvbnt7zmm4fj,ceres.gay
 did:plc:ewrx5unendeler6bsocabcy7,zelkova.zone
 did:plc:gwd5r7dbg3zv6dhv75hboa3f,mofu.run
@@ -186,7 +188,7 @@ did:plc:427uaandx74txvzakxthrjwu,fishtopher.bsky.social
 did:plc:6zfgmvghpidjvcn3cqtitnx5,fenny.space
 did:plc:dre4efflq4xsbmhpzlssbjmb,nanners.bsky.social
 did:plc:5v6p3znwekni6oltuupjlnng,genuineloser.bsky.social
-did:plc:adtzorbhmmjbzxsl2y4vqlqs,seiso.moe
+did:plc:adtzorbhmmjbzxsl2y4vqlqs,waffle.casa
 did:plc:xbehcvlodavqyc2x27gfir7w,eefuh.bsky.social
 did:plc:j24gtjdqe5bkyserkeudiqfw,limeoceana.bsky.social
 did:plc:lrp5jpgjg7r6kweadjudjois,simpleduckman.bsky.social
