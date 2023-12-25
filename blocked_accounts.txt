@@ -1,3 +1,4 @@
+did:plc:cxi7yxacplmautg7qmjal6ea,hypercubexl.bsky.social
 did:plc:yv4g3qpmt6god5zaiqwsu3uq,scumbelievable.bsky.social
 did:plc:i2ghu6o63j6bv2grvokyorsg,thecactuarmatt.bsky.social
 did:plc:yaednivr2bwik2fux27l6sgm,velodus.bsky.social
@@ -24,7 +25,6 @@ did:plc:qvf3sjhvbwi44aogsjg6jvn5,bullsh4rk2.bsky.social
 did:plc:eb7pkz2pdt2q3d3fqqfh3snw,dutschi.bsky.social
 did:plc:c5afhrfm4v2kziojyc35eq65,floriangallwitz.bsky.social
 did:plc:kjrgdstn5ilav6xoflvtlcap,querschlaeger.bsky.social
-did:plc:tilz4v36e6f32cg6rgyrqqh3,poetbytheriver.bsky.social
 did:plc:krmiuhowkvx23xak3t4ccixb,jaidchen.bsky.social
 did:plc:icfy2als5x3v6h4jc3lnpgym,diemaus.bsky.social
 did:plc:t4gky4gzvtwtl2io74zd5ut4,heikemax.bsky.social

@@ -1,3 +1,5 @@
+did:plc:vjug55kidv6sye7ykr5faxxn,emily.bsky.team
+did:plc:tpg43qhh4lw4ksiffs4nbda3,jacob.gold
 did:plc:mymwxdm4zedrqufkotuxn72k,tuyoki.bsky.social
 did:plc:pp75d5hgiueryvekuqritvdj,slurpman.bsky.social
 did:plc:cak4klqoj3bqgk5rj6b4f5do,mmasnick.bsky.social
@@ -122,7 +124,7 @@ did:plc:tzc4liux326gyrwwpus7gqpy,saeko.bsky.social
 did:plc:bnqkww7bjxaacajzvu5gswdf,shreyanjain.net
 did:plc:ew66n5udoqzjo3n3p4ekx572,dapresident.bsky.social
 did:plc:cj5szj3mu2ood66kls7oifmk,thecybersmith.bsky.social
-did:plc:fln5yais5hodxuby5vxhhqy3,silhouett.es
+did:plc:fln5yais5hodxuby5vxhhqy3,snozzberri.es
 did:plc:xfbunnwahp64mjuz74hmkwh2,vallieplushie.bsky.social
 did:plc:iqkvdiurx7ih7wfs4minerom,aumgensokyo.bsky.social
 did:plc:xroh7jwbnc7bsvbnt7zmm4fj,ceres.gay
