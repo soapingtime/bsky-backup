@@ -1,3 +1,6 @@
+did:plc:ejqnhikyiu6q4x3hkcdxya34,yurihayare.bsky.social
+did:plc:jdaqimhfkds5hhmtu7erwt6k,anarchyinwonderland.com
+did:plc:dfzstqjpxktfiqljtzthncvg,floweryrin.bsky.social
 did:plc:cxi7yxacplmautg7qmjal6ea,hypercubexl.bsky.social
 did:plc:yv4g3qpmt6god5zaiqwsu3uq,scumbelievable.bsky.social
 did:plc:i2ghu6o63j6bv2grvokyorsg,thecactuarmatt.bsky.social
@@ -6,7 +9,6 @@ did:plc:riavpubkcnknruh6tifs33ji,damatthook.bsky.social
 did:plc:kazwkrel3bvgeqm3wdiydwdf,aisky.bsky.social
 did:plc:5xtlomf53fdgiwg6qv6chdxo,amazingnature.bsky.social
 did:plc:bndbpculmlr7pqq4rr3y3ezr,frog-frens33.bsky.social
-did:plc:gr6glr3getmxszdshfg6zozs,hstark.bsky.social
 did:plc:ckkf3livex5gokpftkgihcme,satinlady.com
 did:plc:7ep6d4byk2kqb6imgqutyxyw,alleraus49.bsky.social
 did:plc:v7632qt2aemvxxp745obhspl,everyones-fren48.bsky.social
@@ -145,7 +147,7 @@ did:plc:xzdokgdervkd3kl6t2drkait,naomii.bsky.social
 did:plc:xxno7p4xtpkxtn4ok6prtlcb,lovefairy.nl
 did:plc:tfcwbl6fhcxgy3uvt34iah2e,dumbdawn.bsky.social
 did:plc:rpljvhj3u557ulbclxvmpxba,bigsoupin.bsky.social
-did:plc:pg5ihytqlttrnu6hugu7n2d2,antinouns.bsky.social
+did:plc:pg5ihytqlttrnu6hugu7n2d2,trashdyke.gay
 did:plc:cikelspskyqk3s2vch4ys3ls,albertinowalter117.bsky.social
 did:plc:5iku4koopbjph2r26ykun6ej,arboria.bsky.social
 did:plc:4gp6zwbms4p2rns3xkfcttdu,kanyewestlover.bsky.social
