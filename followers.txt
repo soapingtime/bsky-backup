@@ -1,3 +1,15 @@
+did:plc:l4yvnqln4z6mr45poocpomdf,glarfed.bsky.social
+did:plc:bpakvrgghyfx7c7s66wov6ie,nikhild.bsky.social
+did:plc:c3qviaksyjuhkcjwyafresgy,dwillsmom.bsky.social
+did:plc:ojbjfp25hapc3xfh2uxfeixl,sinamajd.bsky.social
+did:plc:va7acoa7vdgazgy2wpkmupwo,bebekatlen.bsky.social
+did:plc:fm46iuk6javjzgkfyn24mwye,kevjaxx.bsky.social
+did:plc:3lmonzkej273pr74kcg54j4m,maru7en.bsky.social
+did:plc:v6koy6w2ptj34ih2gyq6jvkv,poetbytheriver.bsky.social
+did:plc:fvoz2ulewj2cdft3fso2ggqn,laughinggirl1967.bsky.social
+did:plc:x4axtnsvftydnu3zf57zz33q,mzwhill.bsky.social
+did:plc:v33cy7f7322zufm3ytdiubo4,zbsky.bsky.social
+did:plc:sgbpilhf5sgipfwaftzwst5l,sozol20mg.bsky.social
 did:plc:3d6hxtmilhbkksbivsfct7zn,sodi-kesh.bsky.social
 did:plc:dhpmgmrikz3lg3xi2gbos3e7,veriosis72.bsky.social
 did:plc:rb35t7zd5n7gxa4wmkojoi4e,svenhennig.bsky.social
@@ -57,7 +69,7 @@ did:plc:2cfwbjtsquk4ptk5vl5efsk4,yaoijesus.bsky.social
 did:plc:kvdpwyzvdhl5yvk2v4cla6bv,markreel.bsky.social
 did:plc:67cmimfmk2q3rwexagj6y5j5,nightheron.bsky.social
 did:plc:pfs5plbvxqwicww6fky6lmsl,crossslide.bsky.social
-did:plc:gttrfs4hfmrclyxvwkwcgpj7,shitposting.vip
+did:plc:gttrfs4hfmrclyxvwkwcgpj7,aparker.io
 did:plc:k4orvi37n2rfkfcffkpqxzys,jackjonson.bsky.social
 did:plc:queiogp4cavuzrnq4k3hxh6t,lawyersheryl.com
 did:plc:y7o4arpwp5xv3zp2bygu5lt4,tentz.bsky.social
@@ -88,7 +100,7 @@ did:plc:oisofpd7lj26yvgiivf3lxsi,haileyok.com
 did:plc:uu5axsmbm2or2dngy4gwchec,futur.blue
 did:plc:3was5ea6vg7d5lydgktzr4sj,dultimate001.bsky.social
 did:plc:p2mwrgpaj2gvcmeeda5zqumq,itsashleighhyo.bsky.social
-did:plc:zkfmoz553xzp7nga2zc3x62a,doowkcin.bsky.social
+did:plc:zkfmoz553xzp7nga2zc3x62a,nickwood.me
 did:plc:7rpg2lpppitchfwdahe75jgq,charlietheunicorn.bsky.social
 did:plc:6lwfvmss45d7j7fot34v2kw5,schizanon.bsky.social
 did:plc:srrbdospijghtylg53cyrwat,scrunge-posteign.bsky.social
@@ -304,7 +316,7 @@ did:plc:bu2fybsqrv7caj7zv6utf2wo,yen-nefer.bsky.social
 did:plc:nocdhbinmjl7zs4bu52maxkp,holidayquinnxpress.bsky.social
 did:plc:if4qomzxfxja6xf6jenxruex,dumbkitty.bsky.social
 did:plc:r6irwmmbqbg4jzxcdfpltq6t,scraunched.bsky.social
-did:plc:fln5yais5hodxuby5vxhhqy3,snozzberri.es
+did:plc:fln5yais5hodxuby5vxhhqy3,silhouett.es
 did:plc:z3qeco5sas7nzxq7rrcqj3be,culturalposadist.bsky.social
 did:plc:yz6nsxn45mgbofke6yewyxvq,theinternet.bsky.social
 did:plc:qyg6l5zkjcx6q77jvf4yxke2,comradeotaku.bsky.social
