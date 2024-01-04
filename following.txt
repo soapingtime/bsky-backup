@@ -1,3 +1,11 @@
+did:plc:stanxt5uyoihelv337sgtksr,skyna.me
+did:plc:jf3sedw7pi7yw52dpvz3plo3,skeetdeck.bsky.social
+did:plc:lol4jifrxc33npazgzwakxrz,notmyfifth.bsky.social
+did:plc:mk2h327aupa45lbzgebb4hup,max-ernst.bsky.social
+did:plc:jj2hhg3s3ztuva3hw6ukcfe5,mc-escher.bsky.social
+did:plc:i7aub63g2bdjd5bbg64pf4ho,magrittebot.bsky.social
+did:plc:4fjzjpnmf346g2twt7pvwmiu,dalibot.bsky.social
+did:plc:gzoohicxngefsa5lxsfu44qt,raizel.at
 did:plc:7m4nyyvs5kgrwa6rkaa6nxyj,retrotechdreams.bsky.social
 did:plc:mraaqr35gfzsxjrjacfiwyna,nickcash.bsky.social
 did:plc:l4yvnqln4z6mr45poocpomdf,glarfed.bsky.social
@@ -98,7 +106,7 @@ did:plc:flojvbrpliyryifzgkjsfml4,straight.boykisser.expert
 did:plc:ragtjsm2j2vknwkz3zp4oxrd,pfrazee.com
 did:plc:fgd4h4fwusrcfukesl7axe5e,poieticweb.bsky.social
 did:plc:djwbofc7txyiyrqv6wtesghr,tameranian.bsky.social
-did:plc:e4fsmjcj33khuqi6prspceiy,chiefkeef2.bsky.social
+did:plc:e4fsmjcj33khuqi6prspceiy,chiefkeef.bsky.social
 did:plc:srd6dnnrv7blmbi3aqfl2wui,bighammy.bsky.social
 did:plc:2czu76ohiskwfehlecbchppx,bitdizzy.bsky.social
 did:plc:gbgurvrbxdvxgosn3ixfipm2,sirenofvoid.bsky.social
@@ -304,6 +312,6 @@ did:plc:mz7a44ivfrpdehclthomxsot,vl-olet.com
 did:plc:qt6nzexo4nhibrv5diu73gat,fellinifiend.bsky.social
 did:plc:x74vokdiwgedcamebyrj32fy,homophobia.bsky.social
 did:plc:xrr5j2okn7ew2zvcwsxus3gb,catsofyore.bsky.social
-did:plc:ql27dkji2qeckzk4krdeuanr,desert.bsky.social
+did:plc:ql27dkji2qeckzk4krdeuanr,bearerofthecurse.bsky.social
 did:plc:dwcbighqhwynjxkehrxtv742,derumisis.xyz
 did:plc:ts74ljrqpgyqeloco2j4zmni,isabelle.lgbt
