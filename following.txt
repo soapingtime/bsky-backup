@@ -1,3 +1,10 @@
+did:plc:l5ef5mw3s4sj355uxmevs4lc,richardwrites672.bsky.social
+did:plc:f5ejbog3ostso47er2y5ugbl,goeo.bsky.social
+did:plc:lfxebm4a2hwpcg2cuo2ywiyb,db-user.bsky.social
+did:plc:dyhnqgeikzepjjmz7ul7m22f,r-------e-------m.bsky.social
+did:plc:s4thbw5lo75undhmvwnlgcpv,3tanuki6491.bsky.social
+did:plc:vw4e7blkwzdokanwp24k3igr,thearchduke.bsky.social
+did:plc:7j3piddxomnufutjctyz2lou,reply.guyfieri.info
 did:plc:stanxt5uyoihelv337sgtksr,skyna.me
 did:plc:jf3sedw7pi7yw52dpvz3plo3,skeetdeck.bsky.social
 did:plc:lol4jifrxc33npazgzwakxrz,notmyfifth.bsky.social

@@ -1,7 +1,8 @@
+did:plc:izwkrpapa4baoz4cfxkyri3t,navin5u.bsky.social
 did:plc:aeoatykasx6z2qruxy4rfwmn,sororophile.bsky.social
 did:plc:iust6amnpuanxojtzpranoks,lucytokisaki.bsky.social
 did:plc:ejqnhikyiu6q4x3hkcdxya34,yurihayare.bsky.social
-did:plc:jdaqimhfkds5hhmtu7erwt6k,anarchyinwonderland.com
+did:plc:jdaqimhfkds5hhmtu7erwt6k,princessalice.moe
 did:plc:dfzstqjpxktfiqljtzthncvg,floweryrin.bsky.social
 did:plc:cxi7yxacplmautg7qmjal6ea,hypercubexl.bsky.social
 did:plc:yv4g3qpmt6god5zaiqwsu3uq,scumbelievable.bsky.social
@@ -154,7 +155,6 @@ did:plc:cikelspskyqk3s2vch4ys3ls,albertinowalter117.bsky.social
 did:plc:5iku4koopbjph2r26ykun6ej,arboria.bsky.social
 did:plc:4gp6zwbms4p2rns3xkfcttdu,kanyewestlover.bsky.social
 did:plc:vdz2vuany7vmbwllh7vdw3ia,trance.bsky.social
-did:plc:xfqcsi7wuwedeqaa5m7aih44,anonymous.expectus.fyi
 did:plc:ghuofytjzwintf5rdsab43zv,gay4ranch.bsky.social
 did:plc:hz2feujkhph2vcj6kevmtqjh,kitthecatgirl.bsky.social
 did:plc:5krm4pb5gecb5uawvgr7uxuu,90sanime.pics
